@@ -1,0 +1,5500 @@
+[
+  {
+    "id": "PCK-1",
+    "source": "PCK",
+    "sourceNumber": 1,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Berikut yang bukan elemen Capaian Pembelajaran Pendidikan Pancasila adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pancasila"
+      },
+      {
+        "id": "B",
+        "text": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
+      },
+      {
+        "id": "C",
+        "text": "Bhinneka Tunggal Ika"
+      },
+      {
+        "id": "D",
+        "text": "Negara Kesatuan Republik Indonesia"
+      },
+      {
+        "id": "E",
+        "text": "Ekonomi Kerakyatan"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Empat elemen CP Pendidikan Pancasila adalah Pancasila, UUD NRI Tahun 1945, Bhinneka Tunggal Ika, dan NKRI.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-2",
+    "source": "PCK",
+    "sourceNumber": 2,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Pancasila disahkan sebagai dasar negara dalam Pembukaan UUD 1945 oleh PPKI pada tanggal ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 Juni 1945"
+      },
+      {
+        "id": "B",
+        "text": "18 Agustus 1945"
+      },
+      {
+        "id": "C",
+        "text": "22 Juni 1945"
+      },
+      {
+        "id": "D",
+        "text": "17 Agustus 1945"
+      },
+      {
+        "id": "E",
+        "text": "29 Mei 1945"
+      }
+    ],
+    "answer": "B",
+    "explanation": "1 Juni 1945 diperingati sebagai Hari Lahir Pancasila, 22 Juni 1945 adalah tanggal Piagam Jakarta, dan pengesahan terjadi pada sidang PPKI 18 Agustus 1945.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-3",
+    "source": "PCK",
+    "sourceNumber": 3,
+    "code": "PF.2",
+    "type": "PGK Kategori (Benar/Salah)",
+    "difficulty": "Mudah",
+    "stem": "Tentukan Benar atau Salah untuk setiap pernyataan tentang UUD NRI Tahun 1945. Pernyataan Benar Salah",
+    "options": [
+      {
+        "id": "1",
+        "text": "UUD 1945 telah mengalami empat kali perubahan pada 1999–2002."
+      },
+      {
+        "id": "2",
+        "text": "Pasal 1 ayat (3) menyatakan Indonesia adalah negara hukum."
+      },
+      {
+        "id": "3",
+        "text": "Pembukaan UUD 1945 diubah bersamaan dengan perubahan pasal-pasal."
+      },
+      {
+        "id": "4",
+        "text": "Ketentuan hak asasi manusia diatur dalam Pasal 28A sampai 28J."
+      }
+    ],
+    "categories": [
+      "Benar",
+      "Salah"
+    ],
+    "answer": [
+      "Benar",
+      "Benar",
+      "Salah",
+      "Benar"
+    ],
+    "explanation": "Salah satu kesepakatan dasar perubahan UUD 1945 adalah tidak mengubah Pembukaan.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-4",
+    "source": "PCK",
+    "sourceNumber": 4,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Menurut UU Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, jenis peraturan yang berada tepat di bawah UUD NRI Tahun 1945 adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Undang-Undang"
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Pemerintah"
+      },
+      {
+        "id": "C",
+        "text": "Peraturan Presiden"
+      },
+      {
+        "id": "D",
+        "text": "Ketetapan MPR"
+      },
+      {
+        "id": "E",
+        "text": "Peraturan Daerah Provinsi"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Urutannya adalah UUD 1945, Ketetapan MPR, UU/Perppu, PP, Perpres, Perda Provinsi, dan Perda Kabupaten/Kota.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-5",
+    "source": "PCK",
+    "sourceNumber": 5,
+    "code": "P.1",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih semua perilaku yang mencerminkan sila ketiga Pancasila.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Beribadah sesuai agama dan kepercayaan masing-masing"
+      },
+      {
+        "id": "B",
+        "text": "Mencintai tanah air dan bangsa"
+      },
+      {
+        "id": "C",
+        "text": "Mengambil keputusan melalui musyawarah"
+      },
+      {
+        "id": "D",
+        "text": "Bangga menggunakan produk dalam negeri"
+      },
+      {
+        "id": "E",
+        "text": "Bergaul tanpa membeda-bedakan suku"
+      }
+    ],
+    "answer": [
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": "Sila ketiga, Persatuan Indonesia, tampak dalam cinta tanah air dan sikap mempersatukan. Pilihan A mencerminkan sila pertama dan C sila keempat.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-6",
+    "source": "PCK",
+    "sourceNumber": 6,
+    "code": "PF.3",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Murid kelas 8 hafal seluruh sila Pancasila dan dapat menjelaskan maknanya, tetapi sering mengejek teman yang berbeda suku. Menurut Lickona, komponen karakter yang belum berkembang terutama adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "pengetahuan moral (moral knowing)"
+      },
+      {
+        "id": "B",
+        "text": "penalaran moral formal"
+      },
+      {
+        "id": "C",
+        "text": "perasaan dan tindakan moral (moral feeling dan moral action)"
+      },
+      {
+        "id": "D",
+        "text": "hafalan nilai"
+      },
+      {
+        "id": "E",
+        "text": "kecerdasan intelektual"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Pengetahuan Murid sudah ada, tetapi belum menjadi kepedulian dan perilaku. Pembelajaran perlu menyasar empati, pembiasaan, dan refleksi.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-7",
+    "source": "PCK",
+    "sourceNumber": 7,
+    "code": "PF.2",
+    "type": "PGK Kategori (Hak/Kewajiban)",
+    "difficulty": "Sedang",
+    "stem": "Tentukan apakah setiap ketentuan berikut termasuk hak atau kewajiban warga negara menurut UUD NRI Tahun 1945. Ketentuan Hak Kewajiban",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mendapat pendidikan"
+      },
+      {
+        "id": "2",
+        "text": "Menjunjung hukum dan pemerintahan"
+      },
+      {
+        "id": "3",
+        "text": "Memeluk agama dan beribadat menurut agamanya"
+      },
+      {
+        "id": "4",
+        "text": "Menghormati hak asasi manusia orang lain"
+      }
+    ],
+    "categories": [
+      "Hak",
+      "Kewajiban"
+    ],
+    "answer": [
+      "Hak",
+      "Kewajiban",
+      "Hak",
+      "Kewajiban"
+    ],
+    "explanation": "Pasal 28J menegaskan kewajiban menghormati hak asasi orang lain sebagai penyeimbang hak setiap warga.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-8",
+    "source": "PCK",
+    "sourceNumber": 8,
+    "code": "P.1",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Guru menyajikan cerita dilema moral, lalu Murid memilih sikap, memberi alasan, dan menimbang konsekuensinya. Model pembelajaran yang digunakan adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "teknik klarifikasi nilai (Value Clarification Technique)"
+      },
+      {
+        "id": "B",
+        "text": "ceramah bervariasi"
+      },
+      {
+        "id": "C",
+        "text": "demonstrasi"
+      },
+      {
+        "id": "D",
+        "text": "latihan dan pengulangan (drill)"
+      },
+      {
+        "id": "E",
+        "text": "pembelajaran langsung"
+      }
+    ],
+    "answer": "A",
+    "explanation": "VCT membantu Murid menemukan dan menimbang nilai melalui dilema, sehingga nilai dipahami, bukan hanya dihafal.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-9",
+    "source": "PCK",
+    "sourceNumber": 9,
+    "code": "PF.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih semua pernyataan Murid berikut yang merupakan miskonsepsi tentang Bhinneka Tunggal Ika.",
+    "options": [
+      {
+        "id": "A",
+        "text": "\"Persatuan berarti semua orang harus seragam.\""
+      },
+      {
+        "id": "B",
+        "text": "\"Perbedaan diakui dan dihargai dalam satu kesatuan bangsa.\""
+      },
+      {
+        "id": "C",
+        "text": "\"Toleransi berarti mencampuradukkan ajaran semua agama.\""
+      },
+      {
+        "id": "D",
+        "text": "\"Toleransi berarti menghormati keyakinan orang lain.\""
+      },
+      {
+        "id": "E",
+        "text": "\"Perbedaan pasti menjadi sumber konflik.\""
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "Bhinneka Tunggal Ika berarti berbeda-beda tetapi tetap satu. Persatuan tidak menuntut keseragaman, dan toleransi tidak berarti mencampuradukkan ajaran.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-10",
+    "source": "PCK",
+    "sourceNumber": 10,
+    "code": "P.5",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Guru ingin membelajarkan nilai sila keempat dengan memanfaatkan kearifan lokal. Kegiatan yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Murid menghafal butir-butir sila keempat"
+      },
+      {
+        "id": "B",
+        "text": "Murid menonton video sidang parlemen negara lain"
+      },
+      {
+        "id": "C",
+        "text": "Murid membaca definisi demokrasi dari kamus"
+      },
+      {
+        "id": "D",
+        "text": "Murid mengamati atau mengikuti musyawarah desa, lalu membandingkannya dengan musyawarah kelas"
+      },
+      {
+        "id": "E",
+        "text": "Murid menulis ringkasan dari buku teks"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Tradisi musyawarah setempat menjadi contoh nyata yang dekat dengan Murid.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-11",
+    "source": "PCK",
+    "sourceNumber": 11,
+    "code": "PF.2",
+    "type": "PGK Kategori (Sila Kedua/Sila Kelima)",
+    "difficulty": "Sedang",
+    "stem": "Tentukan sila yang paling dicerminkan oleh setiap perilaku berikut. Perilaku Sila Kedua Sila Kelima",
+    "options": [
+      {
+        "id": "1",
+        "text": "Membantu korban bencana tanpa memandang latar belakang"
+      },
+      {
+        "id": "2",
+        "text": "Tidak bergaya hidup boros dan bermewah-mewah"
+      },
+      {
+        "id": "3",
+        "text": "Mengakui persamaan derajat setiap manusia"
+      },
+      {
+        "id": "4",
+        "text": "Menghargai hasil karya orang lain dan suka bekerja keras"
+      }
+    ],
+    "categories": [
+      "Sila Kedua",
+      "Sila Kelima"
+    ],
+    "answer": [
+      "Sila Kedua",
+      "Sila Kelima",
+      "Sila Kedua",
+      "Sila Kelima"
+    ],
+    "explanation": "Sila kedua menekankan kemanusiaan dan martabat. Sila kelima menekankan keadilan sosial, termasuk sikap hidup sederhana dan kerja keras.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-12",
+    "source": "PCK",
+    "sourceNumber": 12,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Tujuan negara Indonesia tercantum dalam Pembukaan UUD NRI Tahun 1945 pada ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "alinea pertama"
+      },
+      {
+        "id": "B",
+        "text": "alinea kedua"
+      },
+      {
+        "id": "C",
+        "text": "alinea ketiga"
+      },
+      {
+        "id": "D",
+        "text": "Pasal 1"
+      },
+      {
+        "id": "E",
+        "text": "alinea keempat"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Alinea keempat memuat tujuan negara dan rumusan dasar negara Pancasila.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-13",
+    "source": "PCK",
+    "sourceNumber": 13,
+    "code": "P.6",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih semua teknik yang tepat untuk menilai perkembangan sikap toleransi Murid.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tes pilihan ganda tentang butir pengamalan Pancasila"
+      },
+      {
+        "id": "B",
+        "text": "Observasi berkala dengan jurnal perilaku"
+      },
+      {
+        "id": "C",
+        "text": "Penilaian diri"
+      },
+      {
+        "id": "D",
+        "text": "Penilaian antarteman"
+      },
+      {
+        "id": "E",
+        "text": "Menyimpulkan sikap dari nilai ujian tertulis"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "Sikap tampak dalam perilaku nyata dan dari berbagai sudut pandang. Tes tertulis mengukur pengetahuan, bukan sikap.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-14",
+    "source": "PCK",
+    "sourceNumber": 14,
+    "code": "PF.3",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Murid berpendapat \"Demokrasi berarti suara terbanyak selalu menang dan minoritas harus mengikuti tanpa didengar.\" Strategi paling tepat untuk meluruskan pemahaman ini adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "memberi definisi demokrasi dan meminta Murid menghafalnya"
+      },
+      {
+        "id": "B",
+        "text": "menyimulasikan musyawarah untuk kasus nyata, lalu membahas prinsip mufakat, pemungutan suara, dan perlindungan"
+      },
+      {
+        "id": "C",
+        "text": "membenarkan pendapat Murid karena pemilu memakai suara terbanyak"
+      },
+      {
+        "id": "D",
+        "text": "mengabaikan pendapat tersebut"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid membaca pasal-pasal UUD tanpa diskusi"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Demokrasi Pancasila mengutamakan musyawarah untuk mufakat. Pemungutan suara dipakai bila mufakat tidak tercapai, dengan tetap menghormati hak semua pihak.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-15",
+    "source": "PCK",
+    "sourceNumber": 15,
+    "code": "P.1",
+    "type": "PGK Kategori (Tepat/Tidak Tepat)",
+    "difficulty": "Sulit",
+    "stem": "Guru menerapkan model Project Citizen. Nilailah setiap langkah berikut. Langkah Tepat Tidak Tepat",
+    "options": [
+      {
+        "id": "1",
+        "text": "Murid mengidentifikasi masalah kebijakan publik di lingkungannya"
+      },
+      {
+        "id": "2",
+        "text": "Murid memilih satu masalah untuk dikaji bersama"
+      },
+      {
+        "id": "3",
+        "text": "Guru menentukan solusi, lalu Murid menyalinnya ke portofolio"
+      },
+      {
+        "id": "4",
+        "text": "Murid menyusun portofolio dan menyajikannya dalam forum dengar pendapat"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Project Citizen menempatkan Murid sebagai warga aktif yang mengkaji masalah dan merumuskan usulan kebijakan sendiri.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-16",
+    "source": "PCK",
+    "sourceNumber": 16,
+    "code": "P.2",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Kelas akan mendiskusikan isu kebijakan publik yang diperdebatkan di masyarakat. Latar belakang Murid dan keluarganya beragam. Peran guru yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menyampaikan pandangan pribadinya agar Murid mengikuti"
+      },
+      {
+        "id": "B",
+        "text": "menghindari isu tersebut karena berisiko"
+      },
+      {
+        "id": "C",
+        "text": "memfasilitasi diskusi berbasis data dengan aturan saling menghormati dan menyajikan berbagai sudut pandang secara"
+      },
+      {
+        "id": "D",
+        "text": "hanya mengizinkan Murid yang sependapat dengan guru untuk berbicara"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid mengikuti pendapat orang tua masing-masing"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Guru berperan sebagai fasilitator yang adil sehingga Murid belajar berargumen dan menghargai perbedaan pendapat.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-17",
+    "source": "PCK",
+    "sourceNumber": 17,
+    "code": "PF.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih semua lembaga negara yang dibentuk melalui perubahan UUD 1945.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mahkamah Konstitusi"
+      },
+      {
+        "id": "B",
+        "text": "Komisi Yudisial"
+      },
+      {
+        "id": "C",
+        "text": "Dewan Pertimbangan Agung"
+      },
+      {
+        "id": "D",
+        "text": "Dewan Perwakilan Daerah"
+      },
+      {
+        "id": "E",
+        "text": "Majelis Permusyawaratan Rakyat"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "MK, KY, dan DPD lahir dari perubahan UUD 1945. DPA dihapus, sedangkan MPR sudah ada sejak awal.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-18",
+    "source": "PCK",
+    "sourceNumber": 18,
+    "code": "P.4",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Beredar unggahan hoaks bernada SARA di media sosial yang dibagikan Murid. Kegiatan pembelajaran kewargaan digital yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Murid menganalisis unggahan tersebut, memeriksa faktanya, lalu membuat konten tandingan yang menyejukkan"
+      },
+      {
+        "id": "B",
+        "text": "melarang Murid membuka media sosial"
+      },
+      {
+        "id": "C",
+        "text": "menghukum Murid yang membagikan unggahan"
+      },
+      {
+        "id": "D",
+        "text": "mengabaikannya karena terjadi di luar sekolah"
+      },
+      {
+        "id": "E",
+        "text": "membagikan ulang unggahan sebagai contoh di grup kelas"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Murid belajar memverifikasi informasi dan berperan aktif menjaga persatuan di ruang digital.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-19",
+    "source": "PCK",
+    "sourceNumber": 19,
+    "code": "PF.4",
+    "type": "PGK Kategori (Sesuai/Tidak Sesuai)",
+    "difficulty": "Sulit",
+    "stem": "Guru menyusun Alur Tujuan Pembelajaran Pendidikan Pancasila Fase D. Nilailah setiap pernyataan berikut. Pernyataan Sesuai Tidak Sesuai",
+    "options": [
+      {
+        "id": "1",
+        "text": "TP diturunkan dari CP dan diurutkan secara logis."
+      },
+      {
+        "id": "2",
+        "text": "Setiap elemen CP harus diajarkan terpisah tanpa keterkaitan."
+      },
+      {
+        "id": "3",
+        "text": "TP dapat dikontekstualkan dengan isu di lingkungan sekolah."
+      },
+      {
+        "id": "4",
+        "text": "TP memuat kompetensi yang dapat diamati dan diukur."
+      }
+    ],
+    "categories": [
+      "Sesuai",
+      "Tidak Sesuai"
+    ],
+    "answer": [
+      "Sesuai",
+      "Tidak Sesuai",
+      "Sesuai",
+      "Sesuai"
+    ],
+    "explanation": "Elemen CP saling berkaitan dan dapat dipadukan, misalnya Bhinneka Tunggal Ika dengan NKRI.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-20",
+    "source": "PCK",
+    "sourceNumber": 20,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Guru ingin menilai kemampuan Murid berargumentasi tentang pentingnya perlindungan HAM dalam UUD. Asesmen yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "tes isian nomor pasal HAM"
+      },
+      {
+        "id": "B",
+        "text": "tes pilihan ganda tentang pengertian HAM"
+      },
+      {
+        "id": "C",
+        "text": "kuis menjodohkan pasal dengan isinya"
+      },
+      {
+        "id": "D",
+        "text": "tugas menyalin Pasal 28A–28J"
+      },
+      {
+        "id": "E",
+        "text": "debat atau esai argumentatif yang dinilai dengan rubrik"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Kemampuan berargumentasi paling sahih dinilai melalui unjuk kerja atau tulisan yang menuntut penalaran.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-21",
+    "source": "PCK",
+    "sourceNumber": 21,
+    "code": "PF.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Seorang Murid berkata, \"Pancasila itu hanya hafalan dan tidak ada gunanya.\" Pilih semua respons pembelajaran yang tepat.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberi hukuman karena Murid tidak menghormati Pancasila"
+      },
+      {
+        "id": "B",
+        "text": "Menambah tugas menghafal butir pengamalan"
+      },
+      {
+        "id": "C",
+        "text": "Mengkaji kasus nyata di sekolah atau desa yang berkaitan dengan nilai Pancasila"
+      },
+      {
+        "id": "D",
+        "text": "Mengajak Murid merancang aksi nyata, misalnya kampanye anti-perundungan"
+      },
+      {
+        "id": "E",
+        "text": "Mengajak Murid merefleksikan perubahan yang terjadi setelah aksi"
+      }
+    ],
+    "answer": [
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Pendapat Murid adalah sinyal bahwa pembelajaran belum bermakna. Kasus nyata, aksi, dan refleksi membuat nilai terasa relevan.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-22",
+    "source": "PCK",
+    "sourceNumber": 22,
+    "code": "PF.3",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Dalam kerja kelompok, beberapa Murid menolak sekelompok dengan teman yang berbeda agama. Tindakan guru yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "membiarkan Murid memilih kelompok sendiri agar nyaman"
+      },
+      {
+        "id": "B",
+        "text": "memarahi Murid tersebut di depan kelas"
+      },
+      {
+        "id": "C",
+        "text": "memisahkan kelompok berdasarkan agama"
+      },
+      {
+        "id": "D",
+        "text": "berdialog untuk memahami alasan Murid, lalu merancang kerja kelompok lintas latar belakang dengan tujuan bersama"
+      },
+      {
+        "id": "E",
+        "text": "melaporkan Murid kepada kepala sekolah tanpa tindak lanjut pembelajaran"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Prasangka berkurang melalui pemahaman dan pengalaman bekerja sama untuk tujuan bersama, bukan melalui pemisahan atau penghukuman.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-23",
+    "source": "PCK",
+    "sourceNumber": 23,
+    "code": "PF.5",
+    "type": "PGK Kategori (Setuju/Tidak Setuju)",
+    "difficulty": "Sangat Sulit",
+    "stem": "Guru merancang simulasi sidang pembahasan rancangan peraturan sekolah tentang penggunaan ponsel. Tentukan sikap Anda terhadap setiap pernyataan. Pernyataan Setuju Tidak Setuju",
+    "options": [
+      {
+        "id": "1",
+        "text": "Simulasi melatih Murid memahami proses pembentukan peraturan secara nyata."
+      },
+      {
+        "id": "2",
+        "text": "Guru sebaiknya menentukan hasil sidang sejak awal agar tidak melenceng."
+      },
+      {
+        "id": "3",
+        "text": "Hasil sidang dapat diajukan kepada pihak sekolah sebagai masukan."
+      },
+      {
+        "id": "4",
+        "text": "Refleksi setelah simulasi membantu Murid menghubungkannya dengan proses di"
+      }
+    ],
+    "categories": [
+      "Setuju",
+      "Tidak Setuju"
+    ],
+    "answer": [
+      "Setuju",
+      "Tidak Setuju",
+      "Setuju",
+      "Setuju"
+    ],
+    "explanation": "Simulasi yang autentik memberi Murid ruang menentukan hasil, lalu mengaitkannya dengan konsep kenegaraan.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-24",
+    "source": "PCK",
+    "sourceNumber": 24,
+    "code": "P.5",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Sekolah berada di daerah dengan masyarakat yang beragam suku dan agama serta tradisi adat yang kuat. Pilih semua kegiatan yang tepat untuk elemen Bhinneka Tunggal Ika.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mewawancarai tokoh adat dan tokoh agama tentang praktik toleransi setempat"
+      },
+      {
+        "id": "B",
+        "text": "Memetakan keragaman di kelas dan di desa"
+      },
+      {
+        "id": "C",
+        "text": "Menghafal nama seluruh suku di Indonesia"
+      },
+      {
+        "id": "D",
+        "text": "Merancang festival budaya bersama yang melibatkan berbagai kelompok"
+      },
+      {
+        "id": "E",
+        "text": "Membandingkan budaya mana yang paling unggul"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Kegiatan kontekstual membangun penghargaan pada keragaman. Membandingkan keunggulan budaya justru memicu sikap etnosentris.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-25",
+    "source": "PCK",
+    "sourceNumber": 25,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Hasil tes tertulis Pendidikan Pancasila di kelas Anda tinggi. Namun, Anda menemukan banyak Murid menulis komentar bernada merendahkan kelompok lain di media sosial. Keputusan paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "mempertahankan pembelajaran karena nilai tes sudah tinggi"
+      },
+      {
+        "id": "B",
+        "text": "merevisi pembelajaran dan asesmen agar menyasar perasaan dan tindakan moral, misalnya melalui kasus nyata,"
+      },
+      {
+        "id": "C",
+        "text": "menurunkan nilai tes semua Murid"
+      },
+      {
+        "id": "D",
+        "text": "melarang Murid memakai media sosial"
+      },
+      {
+        "id": "E",
+        "text": "menyerahkan masalah sepenuhnya kepada guru BK"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Kesenjangan antara skor dan perilaku menunjukkan asesmen hanya mengukur pengetahuan. Pembelajaran dan asesmen perlu diperbaiki agar nilai terwujud dalam tindakan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-26",
+    "source": "PCK",
+    "sourceNumber": 26,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Semboyan Bhinneka Tunggal Ika berasal dari kitab ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Negarakertagama karya Mpu Prapanca"
+      },
+      {
+        "id": "B",
+        "text": "Arjunawiwaha karya Mpu Kanwa"
+      },
+      {
+        "id": "C",
+        "text": "Sutasoma karya Mpu Tantular"
+      },
+      {
+        "id": "D",
+        "text": "Pararaton"
+      },
+      {
+        "id": "E",
+        "text": "Bharatayuddha karya Mpu Sedah"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Ungkapan Bhinneka Tunggal Ika berasal dari kitab Sutasoma karya Mpu Tantular pada masa Majapahit.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-27",
+    "source": "PCK",
+    "sourceNumber": 27,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Tokoh yang menyampaikan pidato pada 1 Juni 1945 dan pertama kali mengusulkan nama \"Pancasila\" adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ir. Soekarno"
+      },
+      {
+        "id": "B",
+        "text": "Mohammad Hatta"
+      },
+      {
+        "id": "C",
+        "text": "Mr. Soepomo"
+      },
+      {
+        "id": "D",
+        "text": "Mr. Muhammad Yamin"
+      },
+      {
+        "id": "E",
+        "text": "Dr. Radjiman Wedyodiningrat"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Pidato Soekarno pada sidang BPUPK 1 Juni 1945 menjadi dasar peringatan Hari Lahir Pancasila.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-28",
+    "source": "PCK",
+    "sourceNumber": 28,
+    "code": "PF.2",
+    "type": "PGK Kategori (Benar/Salah)",
+    "difficulty": "Mudah",
+    "stem": "Tentukan Benar atau Salah untuk setiap pernyataan tentang lambang negara Garuda Pancasila. Pernyataan Benar Salah",
+    "options": [
+      {
+        "id": "1",
+        "text": "Jumlah bulu pada leher Garuda adalah 45."
+      },
+      {
+        "id": "2",
+        "text": "Kaki Garuda mencengkeram pita bertuliskan Bhinneka Tunggal Ika."
+      },
+      {
+        "id": "3",
+        "text": "Perisai di dada Garuda memuat lambang kelima sila."
+      },
+      {
+        "id": "4",
+        "text": "Kepala Garuda menoleh ke kiri."
+      }
+    ],
+    "categories": [
+      "Benar",
+      "Salah"
+    ],
+    "answer": [
+      "Benar",
+      "Benar",
+      "Benar",
+      "Salah"
+    ],
+    "explanation": "Kepala Garuda menoleh ke kanan. Jumlah bulunya melambangkan tanggal proklamasi 17-8-1945.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-29",
+    "source": "PCK",
+    "sourceNumber": 29,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Norma yang sanksinya tegas, tertulis, dan dapat dipaksakan oleh negara adalah norma ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "agama"
+      },
+      {
+        "id": "B",
+        "text": "kesusilaan"
+      },
+      {
+        "id": "C",
+        "text": "kesopanan"
+      },
+      {
+        "id": "D",
+        "text": "hukum"
+      },
+      {
+        "id": "E",
+        "text": "kebiasaan"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Norma hukum dibuat oleh lembaga berwenang dan pelanggarannya dikenai sanksi oleh negara.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-30",
+    "source": "PCK",
+    "sourceNumber": 30,
+    "code": "P.1",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih semua contoh sikap bela negara di lingkungan sekolah.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Belajar dengan sungguh-sungguh"
+      },
+      {
+        "id": "B",
+        "text": "Menyebarkan berita yang belum jelas kebenarannya"
+      },
+      {
+        "id": "C",
+        "text": "Menjaga persatuan dan menolak perundungan"
+      },
+      {
+        "id": "D",
+        "text": "Mengikuti upacara bendera dengan khidmat"
+      },
+      {
+        "id": "E",
+        "text": "Mencoret-coret fasilitas sekolah"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Bela negara tidak hanya bersifat militer, tetapi juga tampak dalam sikap sehari-hari yang menjaga persatuan dan kemajuan bangsa.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-31",
+    "source": "PCK",
+    "sourceNumber": 31,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Bunyi Pasal 1 ayat (2) UUD NRI Tahun 1945 setelah perubahan adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Negara Indonesia ialah negara kesatuan yang berbentuk republik."
+      },
+      {
+        "id": "B",
+        "text": "Negara Indonesia adalah negara hukum."
+      },
+      {
+        "id": "C",
+        "text": "Kedaulatan adalah di tangan rakyat dan dilakukan sepenuhnya oleh MPR."
+      },
+      {
+        "id": "D",
+        "text": "Presiden memegang kekuasaan pemerintahan menurut UUD."
+      },
+      {
+        "id": "E",
+        "text": "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar."
+      }
+    ],
+    "answer": "E",
+    "explanation": "Pilihan C adalah rumusan sebelum perubahan. Setelah perubahan, kedaulatan dilaksanakan menurut UUD, bukan oleh MPR sepenuhnya.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-32",
+    "source": "PCK",
+    "sourceNumber": 32,
+    "code": "PF.2",
+    "type": "PGK Kategori (Jenis Norma)",
+    "difficulty": "Sedang",
+    "stem": "Tentukan jenis norma yang paling sesuai dengan setiap perilaku berikut. Perilaku Agama Kesusilaan Kesopanan Hukum",
+    "options": [
+      {
+        "id": "1",
+        "text": "Membayar pajak tepat waktu"
+      },
+      {
+        "id": "2",
+        "text": "Mengucapkan salam saat bertamu"
+      },
+      {
+        "id": "3",
+        "text": "Tidak berbohong karena dorongan hati nurani"
+      },
+      {
+        "id": "4",
+        "text": "Menjalankan ibadah sesuai keyakinan"
+      }
+    ],
+    "categories": [
+      "Agama",
+      "Kesusilaan",
+      "Kesopanan",
+      "Hukum"
+    ],
+    "answer": [
+      "Hukum",
+      "Kesopanan",
+      "Kesusilaan",
+      "Agama"
+    ],
+    "explanation": "Jenis norma dibedakan dari sumber dan sanksinya: Tuhan, hati nurani, masyarakat, atau negara.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-33",
+    "source": "PCK",
+    "sourceNumber": 33,
+    "code": "PF.3",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Murid berpendapat, \"Otonomi daerah berarti daerah bebas mengatur apa saja tanpa campur tangan pusat.\" Strategi yang paling tepat untuk meluruskan pemahaman ini adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "meminta Murid menghafal definisi otonomi daerah"
+      },
+      {
+        "id": "B",
+        "text": "mengkaji pembagian urusan pemerintahan pusat dan daerah menggunakan contoh kebijakan di daerah Murid"
+      },
+      {
+        "id": "C",
+        "text": "membenarkan pendapat tersebut"
+      },
+      {
+        "id": "D",
+        "text": "menjelaskan bahwa otonomi daerah sudah dihapus"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid membaca UU tanpa bimbingan"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Otonomi daerah dijalankan dalam kerangka NKRI. Ada urusan yang tetap menjadi kewenangan pusat.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-34",
+    "source": "PCK",
+    "sourceNumber": 34,
+    "code": "PF.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih semua urusan pemerintahan absolut yang sepenuhnya menjadi kewenangan pemerintah pusat menurut UU Nomor 23 Tahun 2014.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Politik luar negeri"
+      },
+      {
+        "id": "B",
+        "text": "Pertahanan"
+      },
+      {
+        "id": "C",
+        "text": "Pendidikan dasar"
+      },
+      {
+        "id": "D",
+        "text": "Yustisi"
+      },
+      {
+        "id": "E",
+        "text": "Agama"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": "Urusan absolut meliputi politik luar negeri, pertahanan, keamanan, yustisi, moneter dan fiskal nasional, serta agama. Pendidikan adalah urusan konkuren.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-35",
+    "source": "PCK",
+    "sourceNumber": 35,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Guru ingin menilai pemahaman Murid tentang keseimbangan hak dan kewajiban. Asesmen yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menganalisis kasus nyata, misalnya warga yang menuntut hak atas jalan bagus tetapi enggan membayar pajak, lalu"
+      },
+      {
+        "id": "B",
+        "text": "menuliskan definisi hak dan kewajiban"
+      },
+      {
+        "id": "C",
+        "text": "menyebutkan pasal tentang hak warga negara"
+      },
+      {
+        "id": "D",
+        "text": "menjodohkan istilah dengan artinya"
+      },
+      {
+        "id": "E",
+        "text": "menyalin daftar hak dan kewajiban"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Analisis kasus menuntut Murid menerapkan konsep pada situasi nyata, bukan hanya mengingat.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-36",
+    "source": "PCK",
+    "sourceNumber": 36,
+    "code": "PF.2",
+    "type": "PGK Kategori (Benar/Salah)",
+    "difficulty": "Sedang",
+    "stem": "Tentukan Benar atau Salah untuk setiap pernyataan tentang perumusan dasar negara. Pernyataan Benar Salah",
+    "options": [
+      {
+        "id": "1",
+        "text": "BPUPK diketuai oleh Dr. Radjiman Wedyodiningrat."
+      },
+      {
+        "id": "2",
+        "text": "Sidang pertama BPUPK membahas rumusan dasar negara."
+      },
+      {
+        "id": "3",
+        "text": "Piagam Jakarta disusun oleh Panitia Sembilan."
+      },
+      {
+        "id": "4",
+        "text": "PPKI dibentuk lebih dahulu daripada BPUPK."
+      }
+    ],
+    "categories": [
+      "Benar",
+      "Salah"
+    ],
+    "answer": [
+      "Benar",
+      "Benar",
+      "Benar",
+      "Salah"
+    ],
+    "explanation": "BPUPK dibentuk lebih dulu. PPKI dibentuk kemudian dan mengesahkan UUD pada 18 Agustus 1945.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-37",
+    "source": "PCK",
+    "sourceNumber": 37,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Peristiwa yang menegaskan bahwa laut di antara pulau-pulau Indonesia merupakan satu kesatuan wilayah adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sumpah Pemuda 1928"
+      },
+      {
+        "id": "B",
+        "text": "Proklamasi Kemerdekaan 1945"
+      },
+      {
+        "id": "C",
+        "text": "Deklarasi Djuanda 1957"
+      },
+      {
+        "id": "D",
+        "text": "Konferensi Meja Bundar 1949"
+      },
+      {
+        "id": "E",
+        "text": "Dekret Presiden 1959"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Deklarasi Djuanda menjadi dasar Wawasan Nusantara dan konsep negara kepulauan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-38",
+    "source": "PCK",
+    "sourceNumber": 38,
+    "code": "P.1",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih semua kegiatan yang tepat untuk membelajarkan proses pembentukan undang-undang.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimulasikan pembahasan rancangan undang-undang"
+      },
+      {
+        "id": "B",
+        "text": "Menghafal nomor pasal tentang DPR"
+      },
+      {
+        "id": "C",
+        "text": "Membuat diagram alur pembentukan undang-undang"
+      },
+      {
+        "id": "D",
+        "text": "Menelusuri berita pembahasan sebuah RUU yang sedang berlangsung"
+      },
+      {
+        "id": "E",
+        "text": "Menyalin Pasal 20 UUD 1945"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Simulasi, diagram alur, dan kasus aktual membuat proses legislasi konkret dan bermakna.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-39",
+    "source": "PCK",
+    "sourceNumber": 39,
+    "code": "PF.3",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Dalam diskusi, seorang Murid menyatakan bahwa penghapusan tujuh kata Piagam Jakarta merupakan \"pengkhianatan\". Respons guru yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menyatakan pendapat Murid salah dan menghentikan diskusi"
+      },
+      {
+        "id": "B",
+        "text": "membenarkan pendapat tersebut agar Murid senang"
+      },
+      {
+        "id": "C",
+        "text": "mengalihkan pembicaraan ke materi lain"
+      },
+      {
+        "id": "D",
+        "text": "mengajak Murid mengkaji sumber sejarah tentang alasan perubahan, terutama pertimbangan persatuan, dan proses"
+      },
+      {
+        "id": "E",
+        "text": "melaporkan Murid kepada kepala sekolah"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Penalaran berbasis sumber membantu Murid memahami konteks sejarah dan nilai kompromi demi persatuan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-40",
+    "source": "PCK",
+    "sourceNumber": 40,
+    "code": "P.1",
+    "type": "PGK Kategori (Tepat/Tidak Tepat)",
+    "difficulty": "Sulit",
+    "stem": "Guru membelajarkan sejarah perumusan Pancasila menggunakan sumber primer. Nilailah setiap kegiatan berikut. Kegiatan Tepat Tidak Tepat",
+    "options": [
+      {
+        "id": "1",
+        "text": "Murid membandingkan usulan dasar negara dari beberapa tokoh"
+      },
+      {
+        "id": "2",
+        "text": "Murid hanya membaca ringkasan dari satu buku"
+      },
+      {
+        "id": "3",
+        "text": "Murid menelaah risalah sidang dan konteks peristiwanya"
+      },
+      {
+        "id": "4",
+        "text": "Murid menyimpulkan nilai yang dapat dipelajari dari proses perumusan"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Sumber primer melatih Murid berpikir historis dan memahami Pancasila sebagai hasil musyawarah.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-41",
+    "source": "PCK",
+    "sourceNumber": 41,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Berikut yang bukan wewenang MPR menurut UUD NRI Tahun 1945 setelah perubahan adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "mengubah dan menetapkan UUD"
+      },
+      {
+        "id": "B",
+        "text": "melantik Presiden dan Wakil Presiden"
+      },
+      {
+        "id": "C",
+        "text": "memberhentikan Presiden dan/atau Wakil Presiden dalam masa jabatannya menurut UUD"
+      },
+      {
+        "id": "D",
+        "text": "memilih Wakil Presiden jika terjadi kekosongan jabatan"
+      },
+      {
+        "id": "E",
+        "text": "memilih Presiden dan Wakil Presiden pada pemilihan umum biasa"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Sejak perubahan UUD 1945, Presiden dan Wakil Presiden dipilih langsung oleh rakyat (Pasal 6A).",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-42",
+    "source": "PCK",
+    "sourceNumber": 42,
+    "code": "P.6",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Murid mengerjakan proyek kampanye persatuan di media digital. Pilih semua instrumen asesmen yang tepat.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rubrik kualitas produk kampanye"
+      },
+      {
+        "id": "B",
+        "text": "Tes hafalan semboyan negara"
+      },
+      {
+        "id": "C",
+        "text": "Jurnal refleksi proses kerja"
+      },
+      {
+        "id": "D",
+        "text": "Penilaian antarteman tentang kontribusi"
+      },
+      {
+        "id": "E",
+        "text": "Nilai berdasarkan jumlah tanda suka di media sosial"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Asesmen proyek menilai produk, proses, dan kontribusi. Jumlah tanda suka tidak mencerminkan capaian belajar.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-43",
+    "source": "PCK",
+    "sourceNumber": 43,
+    "code": "P.4",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Murid mengutip informasi sejarah dari jawaban aplikasi AI yang ternyata keliru. Langkah yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "melarang pemakaian AI sepenuhnya"
+      },
+      {
+        "id": "B",
+        "text": "mengajarkan Murid memeriksa silang informasi dengan sumber tepercaya, seperti arsip, buku sejarah, dan situs resmi"
+      },
+      {
+        "id": "C",
+        "text": "menerima jawaban AI karena teknologi modern"
+      },
+      {
+        "id": "D",
+        "text": "memberi nilai nol tanpa penjelasan"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid bertanya kepada AI yang lain"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Literasi digital yang kritis menuntut verifikasi sumber, terutama untuk fakta sejarah.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-44",
+    "source": "PCK",
+    "sourceNumber": 44,
+    "code": "PF.4",
+    "type": "PGK Kategori (Sesuai/Tidak Sesuai)",
+    "difficulty": "Sulit",
+    "stem": "Guru menyusun ATP Pendidikan Pancasila Fase F dengan memadukan isu kontemporer. Nilailah setiap pernyataan berikut. Pernyataan Sesuai Tidak Sesuai",
+    "options": [
+      {
+        "id": "1",
+        "text": "Isu kontemporer dipilih karena relevan dengan CP dan kehidupan Murid."
+      },
+      {
+        "id": "2",
+        "text": "Isu dipakai untuk menggiring Murid pada pandangan politik tertentu."
+      },
+      {
+        "id": "3",
+        "text": "Isu dianalisis dari berbagai sumber dan sudut pandang."
+      },
+      {
+        "id": "4",
+        "text": "TP tetap menyasar kompetensi kewarganegaraan, bukan sekadar mengikuti berita."
+      }
+    ],
+    "categories": [
+      "Sesuai",
+      "Tidak Sesuai"
+    ],
+    "answer": [
+      "Sesuai",
+      "Tidak Sesuai",
+      "Sesuai",
+      "Sesuai"
+    ],
+    "explanation": "Isu kontemporer menjadi konteks belajar yang adil dan kritis, bukan alat penggiringan opini.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-45",
+    "source": "PCK",
+    "sourceNumber": 45,
+    "code": "PF.5",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Guru ingin meneliti pengaruh model klarifikasi nilai terhadap sikap toleransi Murid. Rancangan yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menerapkan model sekali lalu menanyakan kesan Murid"
+      },
+      {
+        "id": "B",
+        "text": "mengamati satu Murid saja"
+      },
+      {
+        "id": "C",
+        "text": "mengukur sikap sebelum dan sesudah tindakan dengan skala sikap dan observasi perilaku, lalu menganalisis"
+      },
+      {
+        "id": "D",
+        "text": "membandingkan nilai ujian tertulis"
+      },
+      {
+        "id": "E",
+        "text": "membaca teori tentang toleransi"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Sikap diukur dengan instrumen yang sesuai dan dari lebih dari satu sumber data, dengan perbandingan sebelum dan sesudah.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-46",
+    "source": "PCK",
+    "sourceNumber": 46,
+    "code": "PF.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Seorang Murid berpendapat, \"HAM berarti saya bebas melakukan apa saja.\" Pilih semua respons pembelajaran yang tepat.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengkaji Pasal 28J tentang pembatasan HAM oleh hak orang lain dan undang-undang"
+      },
+      {
+        "id": "B",
+        "text": "Menyetujui pendapat Murid agar diskusi tetap lancar"
+      },
+      {
+        "id": "C",
+        "text": "Menganalisis kasus ketika hak dua pihak saling bertentangan"
+      },
+      {
+        "id": "D",
+        "text": "Mendiskusikan dilema, misalnya kebebasan berpendapat dan ujaran kebencian"
+      },
+      {
+        "id": "E",
+        "text": "Melarang Murid membahas HAM"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "HAM di Indonesia disertai kewajiban menghormati hak orang lain. Kasus dan dilema membantu Murid memahami batasnya.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-47",
+    "source": "PCK",
+    "sourceNumber": 47,
+    "code": "P.2",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Setelah pemilu, suasana kelas memanas karena Murid membawa pandangan politik keluarganya masing- masing. Langkah guru yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menyepakati aturan diskusi yang saling menghormati dan memfokuskan pembelajaran pada nilai serta proses"
+      },
+      {
+        "id": "B",
+        "text": "menyampaikan pilihan politik pribadinya agar diskusi selesai"
+      },
+      {
+        "id": "C",
+        "text": "melarang semua pembicaraan tentang pemilu"
+      },
+      {
+        "id": "D",
+        "text": "memisahkan tempat duduk Murid berdasarkan pilihan politik keluarga"
+      },
+      {
+        "id": "E",
+        "text": "membiarkan perdebatan berlangsung tanpa aturan"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Guru menjaga netralitas dan menjadikan perbedaan sebagai pembelajaran demokrasi yang beradab.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PCK-48",
+    "source": "PCK",
+    "sourceNumber": 48,
+    "code": "P.5",
+    "type": "PGK Kategori (Setuju/Tidak Setuju)",
+    "difficulty": "Sangat Sulit",
+    "stem": "Guru ingin memasukkan tradisi adat setempat dalam pembelajaran. Sebagian aturan adat dianggap membatasi peran perempuan. Tentukan sikap Anda terhadap setiap pernyataan. Pernyataan Setuju Tidak Setuju",
+    "options": [
+      {
+        "id": "1",
+        "text": "Semua tradisi lokal harus diterima tanpa telaah."
+      },
+      {
+        "id": "2",
+        "text": "Murid diajak menimbang tradisi dengan nilai Pancasila dan HAM secara hormat."
+      },
+      {
+        "id": "3",
+        "text": "Guru sebaiknya menghindari topik adat sama sekali."
+      },
+      {
+        "id": "4",
+        "text": "Tokoh adat dapat diundang untuk berdialog dengan Murid."
+      }
+    ],
+    "categories": [
+      "Setuju",
+      "Tidak Setuju"
+    ],
+    "answer": [
+      "Tidak Setuju",
+      "Setuju",
+      "Tidak Setuju",
+      "Setuju"
+    ],
+    "explanation": "Kearifan lokal dimanfaatkan secara kritis dan dialogis, dengan menghormati budaya sekaligus nilai kemanusiaan.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PCK-49",
+    "source": "PCK",
+    "sourceNumber": 49,
+    "code": "P.1",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Guru merancang unit tentang ancaman terhadap keutuhan NKRI di era digital. Pilih semua kegiatan yang mengembangkan kewarganegaraan kritis.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menganalisis kasus nyata dari berbagai sumber"
+      },
+      {
+        "id": "B",
+        "text": "Menyajikan satu sudut pandang tanpa ruang diskusi"
+      },
+      {
+        "id": "C",
+        "text": "Bermain peran sebagai mediator konflik antarkelompok"
+      },
+      {
+        "id": "D",
+        "text": "Menghafal daftar jenis ancaman"
+      },
+      {
+        "id": "E",
+        "text": "Merancang kampanye literasi digital untuk warga sekolah"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "Kewarganegaraan kritis tumbuh dari analisis, praktik penyelesaian konflik, dan aksi nyata, bukan hafalan atau indoktrinasi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PCK-50",
+    "source": "PCK",
+    "sourceNumber": 50,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Guru menyadari rubrik sikap yang ia gunakan memuat indikator \"selalu patuh tanpa membantah\". Akibatnya, Murid yang menyampaikan kritik secara santun mendapat skor rendah. Keputusan paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "mempertahankan rubrik karena kepatuhan penting"
+      },
+      {
+        "id": "B",
+        "text": "menghapus penilaian sikap"
+      },
+      {
+        "id": "C",
+        "text": "memberi skor tinggi kepada semua Murid"
+      },
+      {
+        "id": "D",
+        "text": "merevisi rubrik agar menilai ciri warga negara aktif, seperti berpendapat santun, berpikir kritis, dan peduli, bukan"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid tidak lagi menyampaikan kritik"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Pendidikan Pancasila membentuk warga negara yang kritis dan bertanggung jawab. Kepatuhan tanpa nalar bukan tujuan utamanya.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-1",
+    "source": "PU",
+    "sourceNumber": 1,
+    "code": "K.1",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Menurut teori belajar sosial Bandura, keteladanan guru berpengaruh pada karakter Murid karena Murid belajar melalui ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "pengamatan dan peniruan model (observational learning)"
+      },
+      {
+        "id": "B",
+        "text": "hukuman dan hadiah semata"
+      },
+      {
+        "id": "C",
+        "text": "hafalan aturan"
+      },
+      {
+        "id": "D",
+        "text": "kematangan biologis"
+      },
+      {
+        "id": "E",
+        "text": "pengkondisian klasik"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Murid meniru perilaku yang mereka amati, sehingga sikap guru sehari-hari menjadi materi pembelajaran karakter.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-2",
+    "source": "PU",
+    "sourceNumber": 2,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Fungsi Kriteria Ketercapaian Tujuan Pembelajaran (KKTP) adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menentukan peringkat Murid di kelas"
+      },
+      {
+        "id": "B",
+        "text": "menetapkan nilai minimal yang sama untuk semua mata pelajaran"
+      },
+      {
+        "id": "C",
+        "text": "menentukan apakah Murid telah mencapai tujuan pembelajaran"
+      },
+      {
+        "id": "D",
+        "text": "membandingkan nilai antarsekolah"
+      },
+      {
+        "id": "E",
+        "text": "menentukan kenaikan kelas"
+      }
+    ],
+    "answer": "C",
+    "explanation": "KKTP adalah ukuran ketercapaian setiap tujuan pembelajaran dan dasar untuk menentukan tindak lanjut.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-3",
+    "source": "PU",
+    "sourceNumber": 3,
+    "code": "P.6",
+    "type": "PGK Kategori (As/For/Of Learning)",
+    "difficulty": "Mudah",
+    "stem": "Tentukan jenis asesmen untuk setiap kegiatan berikut. Kegiatan As Learning For Learning Of Learning",
+    "options": [
+      {
+        "id": "1",
+        "text": "Murid menilai diri sendiri dengan daftar cek"
+      },
+      {
+        "id": "2",
+        "text": "Kuis singkat untuk menyesuaikan pembelajaran berikutnya"
+      },
+      {
+        "id": "3",
+        "text": "Ujian akhir semester"
+      },
+      {
+        "id": "4",
+        "text": "Murid menulis jurnal tentang strategi belajarnya"
+      }
+    ],
+    "categories": [
+      "As Learning",
+      "For Learning",
+      "Of Learning"
+    ],
+    "answer": [
+      "As Learning",
+      "For Learning",
+      "Of Learning",
+      "As Learning"
+    ],
+    "explanation": "Assessment as learning melibatkan Murid merefleksikan belajarnya, for learning untuk perbaikan pembelajaran, dan of learning untuk menyimpulkan capaian.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-4",
+    "source": "PU",
+    "sourceNumber": 4,
+    "code": "P.1",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Dalam desain mundur (Understanding by Design), langkah pertama perencanaan adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "memilih media pembelajaran"
+      },
+      {
+        "id": "B",
+        "text": "menyusun kegiatan pembelajaran"
+      },
+      {
+        "id": "C",
+        "text": "menyiapkan soal ujian"
+      },
+      {
+        "id": "D",
+        "text": "menentukan metode diskusi"
+      },
+      {
+        "id": "E",
+        "text": "menentukan hasil belajar yang diinginkan"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Urutannya adalah menentukan hasil belajar, menentukan bukti asesmen, lalu merancang pengalaman belajar.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-5",
+    "source": "PU",
+    "sourceNumber": 5,
+    "code": "S.1",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih semua praktik komunikasi inklusif di kelas yang beragam.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memakai bahasa yang tidak merendahkan kelompok mana pun"
+      },
+      {
+        "id": "B",
+        "text": "Membuat lelucon tentang stereotip suku untuk mencairkan suasana"
+      },
+      {
+        "id": "C",
+        "text": "Memberi kesempatan berbicara kepada semua Murid secara adil"
+      },
+      {
+        "id": "D",
+        "text": "Memakai contoh dari berbagai latar budaya"
+      },
+      {
+        "id": "E",
+        "text": "Memanggil Murid dengan julukan berdasarkan ciri fisik"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Komunikasi inklusif membuat setiap Murid merasa dihargai. Stereotip dan julukan fisik melukai martabat Murid.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-6",
+    "source": "PU",
+    "sourceNumber": 6,
+    "code": "P.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Seorang Murid mematuhi aturan semata-mata karena takut dihukum. Menurut Kohlberg, penalaran moralnya berada pada tingkat ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "konvensional, orientasi anak baik"
+      },
+      {
+        "id": "B",
+        "text": "pascakonvensional, kontrak sosial"
+      },
+      {
+        "id": "C",
+        "text": "konvensional, orientasi hukum dan ketertiban"
+      },
+      {
+        "id": "D",
+        "text": "prakonvensional, orientasi hukuman dan kepatuhan"
+      },
+      {
+        "id": "E",
+        "text": "pascakonvensional, prinsip etika universal"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Pada tahap ini benar-salah dinilai dari akibat hukuman. Pembelajaran perlu mengajak Murid bernalar tentang alasan di balik aturan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-7",
+    "source": "PU",
+    "sourceNumber": 7,
+    "code": "P.4",
+    "type": "PGK Kategori (Tepat/Tidak Tepat)",
+    "difficulty": "Sedang",
+    "stem": "Guru memakai papan diskusi daring untuk mengumpulkan pendapat Murid tentang isu toleransi. Nilailah setiap praktik berikut. Praktik Tepat Tidak Tepat",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menyepakati etika berpendapat sebelum diskusi dimulai"
+      },
+      {
+        "id": "2",
+        "text": "Membiarkan komentar yang menyerang pribadi tanpa tanggapan"
+      },
+      {
+        "id": "3",
+        "text": "Memberi pilihan anonim agar Murid pemalu berani berpendapat, dengan moderasi"
+      },
+      {
+        "id": "4",
+        "text": "Menggunakan pendapat yang terkumpul sebagai bahan diskusi di kelas"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Teknologi memperluas partisipasi bila disertai etika digital dan moderasi.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-8",
+    "source": "PU",
+    "sourceNumber": 8,
+    "code": "P.3",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Dalam segitiga restitusi, langkah pertama guru saat Murid berbuat kesalahan adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menanyakan keyakinan kelas"
+      },
+      {
+        "id": "B",
+        "text": "menstabilkan identitas Murid, misalnya \"Kita semua pernah berbuat salah\""
+      },
+      {
+        "id": "C",
+        "text": "memvalidasi tindakan yang salah"
+      },
+      {
+        "id": "D",
+        "text": "memberi hukuman yang setimpal"
+      },
+      {
+        "id": "E",
+        "text": "memanggil orang tua"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Urutan segitiga restitusi adalah menstabilkan identitas, memvalidasi tindakan yang salah, lalu menanyakan keyakinan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-9",
+    "source": "PU",
+    "sourceNumber": 9,
+    "code": "P.1",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih semua ciri pembelajaran yang bermakna menurut prinsip pembelajaran mendalam.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Murid menghafal pengertian sebanyak mungkin"
+      },
+      {
+        "id": "B",
+        "text": "Materi dikaitkan dengan konteks nyata kehidupan Murid"
+      },
+      {
+        "id": "C",
+        "text": "Murid menyalin catatan dari papan tulis"
+      },
+      {
+        "id": "D",
+        "text": "Murid menerapkan pemahaman pada situasi baru"
+      },
+      {
+        "id": "E",
+        "text": "Murid membangun pemahaman melalui penyelidikan dan diskusi"
+      }
+    ],
+    "answer": [
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": "Belajar bermakna terjadi saat Murid membangun pemahaman, mengaitkannya dengan kehidupan, dan mampu mentransfernya.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-10",
+    "source": "PU",
+    "sourceNumber": 10,
+    "code": "K.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Dalam alur coaching TIRTA, tahap ketika coachee menyusun langkah konkret yang akan dilakukannya adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan"
+      },
+      {
+        "id": "B",
+        "text": "Identifikasi"
+      },
+      {
+        "id": "C",
+        "text": "Rencana aksi"
+      },
+      {
+        "id": "D",
+        "text": "Tanggung jawab"
+      },
+      {
+        "id": "E",
+        "text": "Apresiasi"
+      }
+    ],
+    "answer": "C",
+    "explanation": "TIRTA terdiri atas Tujuan, Identifikasi, Rencana aksi, dan Tanggung jawab. Langkah konkret disusun pada tahap Rencana aksi.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-11",
+    "source": "PU",
+    "sourceNumber": 11,
+    "code": "P.6",
+    "type": "PGK Kategori (Sesuai/Tidak Sesuai)",
+    "difficulty": "Sedang",
+    "stem": "Nilailah setiap pernyataan tentang KKTP berikut. Pernyataan Sesuai Tidak Sesuai",
+    "options": [
+      {
+        "id": "1",
+        "text": "KKTP dapat berbentuk rubrik."
+      },
+      {
+        "id": "2",
+        "text": "KKTP dapat berbentuk interval nilai."
+      },
+      {
+        "id": "3",
+        "text": "KKTP harus bernilai 75 untuk semua mata pelajaran."
+      },
+      {
+        "id": "4",
+        "text": "KKTP disusun sebelum pembelajaran dimulai."
+      }
+    ],
+    "categories": [
+      "Sesuai",
+      "Tidak Sesuai"
+    ],
+    "answer": [
+      "Sesuai",
+      "Sesuai",
+      "Tidak Sesuai",
+      "Sesuai"
+    ],
+    "explanation": "KKTP dapat berupa deskripsi kriteria, rubrik, atau interval nilai, dan dikembangkan guru sesuai tujuan pembelajaran.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-12",
+    "source": "PU",
+    "sourceNumber": 12,
+    "code": "S.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Guru ingin Murid memahami pelaksanaan pemerintahan desa secara nyata. Bentuk kolaborasi yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "mengundang perangkat desa untuk berdialog dan memfasilitasi Murid mengamati rapat desa"
+      },
+      {
+        "id": "B",
+        "text": "meminta Murid membaca buku tentang pemerintahan desa"
+      },
+      {
+        "id": "C",
+        "text": "menayangkan video pemerintahan negara lain"
+      },
+      {
+        "id": "D",
+        "text": "meminta Murid menyalin struktur pemerintahan desa dari internet"
+      },
+      {
+        "id": "E",
+        "text": "mengutus satu Murid ke kantor desa lalu bercerita di kelas"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Kolaborasi dengan masyarakat menghadirkan sumber belajar autentik dan pengalaman langsung bagi semua Murid.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-13",
+    "source": "PU",
+    "sourceNumber": 13,
+    "code": "P.6",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih semua bentuk umpan balik yang efektif untuk esai argumentatif Murid.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rubrik yang disertai komentar spesifik"
+      },
+      {
+        "id": "B",
+        "text": "Konferensi singkat empat mata dengan Murid"
+      },
+      {
+        "id": "C",
+        "text": "Hanya mencantumkan nilai angka"
+      },
+      {
+        "id": "D",
+        "text": "Komentar umum seperti \"bagus\" atau \"kurang\""
+      },
+      {
+        "id": "E",
+        "text": "Umpan balik antarteman dengan panduan yang jelas"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "E"
+    ],
+    "explanation": "Umpan balik efektif menunjukkan apa yang sudah baik dan langkah perbaikannya, bukan sekadar penilaian.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-14",
+    "source": "PU",
+    "sourceNumber": 14,
+    "code": "P.1",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Tujuan pembelajaran berikut yang termasuk dimensi pengetahuan metakognitif dalam taksonomi Bloom revisi adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "Murid menyebutkan bunyi kelima sila Pancasila"
+      },
+      {
+        "id": "B",
+        "text": "Murid menjelaskan hubungan antarsila"
+      },
+      {
+        "id": "C",
+        "text": "Murid menerapkan prosedur musyawarah"
+      },
+      {
+        "id": "D",
+        "text": "Murid menilai strategi belajarnya sendiri dalam memahami konsep Bhinneka Tunggal Ika"
+      },
+      {
+        "id": "E",
+        "text": "Murid membedakan hak dan kewajiban"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Pengetahuan metakognitif adalah kesadaran tentang cara berpikir dan belajar diri sendiri.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-15",
+    "source": "PU",
+    "sourceNumber": 15,
+    "code": "K.3",
+    "type": "PGK Kategori (Tepat/Tidak Tepat)",
+    "difficulty": "Sulit",
+    "stem": "Kelas Anda telah menyepakati aturan diskusi. Nilailah setiap tindakan berikut. Tindakan Tepat Tidak Tepat",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mengingatkan aturan kepada setiap Murid yang melanggar dengan cara yang sama"
+      },
+      {
+        "id": "2",
+        "text": "Membiarkan Murid berprestasi memotong pembicaraan teman"
+      },
+      {
+        "id": "3",
+        "text": "Meninjau kembali aturan bersama Murid bila ternyata tidak efektif"
+      },
+      {
+        "id": "4",
+        "text": "Mengubah aturan secara sepihak saat suasana hati sedang buruk"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "explanation": "Konsistensi dan keterlibatan Murid membuat aturan dipercaya dan ditaati.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-16",
+    "source": "PU",
+    "sourceNumber": 16,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Dua guru memberi skor yang sangat berbeda untuk esai yang sama. Langkah paling tepat untuk mengatasinya adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "mengambil skor tertinggi"
+      },
+      {
+        "id": "B",
+        "text": "mengambil skor rata-rata tanpa diskusi"
+      },
+      {
+        "id": "C",
+        "text": "mengganti esai dengan tes pilihan ganda"
+      },
+      {
+        "id": "D",
+        "text": "meminta Murid memilih skor yang disukainya"
+      },
+      {
+        "id": "E",
+        "text": "menyusun rubrik bersama dan melakukan kalibrasi penilaian dengan contoh karya"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Rubrik bersama dan kalibrasi (moderasi) meningkatkan reliabilitas antarpenilai tanpa menghilangkan asesmen autentik.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-17",
+    "source": "PU",
+    "sourceNumber": 17,
+    "code": "S.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih semua praktik komunitas belajar yang mendukung pengembangan keprofesian berkelanjutan.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merancang pembelajaran bersama lalu saling mengamati pelaksanaannya"
+      },
+      {
+        "id": "B",
+        "text": "Rapat rutin yang hanya membahas administrasi"
+      },
+      {
+        "id": "C",
+        "text": "Menganalisis hasil belajar Murid bersama untuk menentukan perbaikan"
+      },
+      {
+        "id": "D",
+        "text": "Berbagi praktik baik beserta kendalanya secara jujur"
+      },
+      {
+        "id": "E",
+        "text": "Saling memberi umpan balik berbasis bukti"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Komunitas belajar efektif berfokus pada praktik pembelajaran dan hasil belajar Murid, bukan administrasi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-18",
+    "source": "PU",
+    "sourceNumber": 18,
+    "code": "P.2",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Seorang Murid dengan ADHD sulit mengikuti diskusi kelas yang panjang. Akomodasi yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "memintanya duduk di belakang agar tidak mengganggu"
+      },
+      {
+        "id": "B",
+        "text": "memecah tugas menjadi bagian pendek, memberinya peran aktif, dan menyediakan jeda singkat"
+      },
+      {
+        "id": "C",
+        "text": "membebaskannya dari diskusi"
+      },
+      {
+        "id": "D",
+        "text": "memberinya tugas menyalin selama diskusi"
+      },
+      {
+        "id": "E",
+        "text": "mengingatkannya dengan suara keras setiap kali tidak fokus"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Akomodasi membantu Murid tetap terlibat sesuai karakteristiknya tanpa dikucilkan dari kegiatan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-19",
+    "source": "PU",
+    "sourceNumber": 19,
+    "code": "P.6",
+    "type": "PGK Kategori (Valid/Tidak Valid)",
+    "difficulty": "Sulit",
+    "stem": "Hasil rubrik diskusi menunjukkan 70% Murid mendapat skor rendah pada aspek \"menanggapi pendapat teman\", tetapi skor tinggi pada aspek \"menyampaikan pendapat\". Nilailah setiap kesimpulan guru. Kesimpulan Valid Tidak Valid",
+    "options": [
+      {
+        "id": "1",
+        "text": "Sebagian besar Murid sudah berani menyampaikan pendapat."
+      },
+      {
+        "id": "2",
+        "text": "Keterampilan mendengarkan dan menanggapi perlu dilatih secara eksplisit."
+      },
+      {
+        "id": "3",
+        "text": "Murid tidak menghargai teman sehingga perlu diberi sanksi."
+      },
+      {
+        "id": "4",
+        "text": "Guru dapat memberi kerangka kalimat untuk menanggapi, misalnya \"Saya setuju"
+      }
+    ],
+    "categories": [
+      "Valid",
+      "Tidak Valid"
+    ],
+    "answer": [
+      "Valid",
+      "Valid",
+      "Tidak Valid",
+      "Valid"
+    ],
+    "explanation": "Data menunjukkan kebutuhan belajar keterampilan, bukan masalah sikap yang perlu dihukum.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-20",
+    "source": "PU",
+    "sourceNumber": 20,
+    "code": "K.1",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Menjelang pemilihan umum, seseorang meminta Anda menyampaikan dukungan kepada calon tertentu di depan kelas. Sikap yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menyampaikan dukungan secara halus"
+      },
+      {
+        "id": "B",
+        "text": "meminta Murid bertanya kepada orang tua tentang pilihan politiknya"
+      },
+      {
+        "id": "C",
+        "text": "menolak memakai kelas untuk kepentingan politik praktis dan tetap bersikap netral"
+      },
+      {
+        "id": "D",
+        "text": "menyampaikan dukungan hanya kepada Murid yang sudah punya hak pilih"
+      },
+      {
+        "id": "E",
+        "text": "membagikan materi kampanye tanpa berkomentar"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Guru menjaga netralitas dan tidak memakai kelas untuk kepentingan politik praktis. Pendidikan politik di kelas tetap boleh, misalnya tentang hak memilih dan cara menilai program secara kritis.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-21",
+    "source": "PU",
+    "sourceNumber": 21,
+    "code": "P.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Murid kelas 11 tampak apatis setiap pelajaran Pendidikan Pancasila. Pilih semua perubahan rancangan yang paling mungkin meningkatkan keterlibatan mereka.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menambah nilai hanya untuk Murid yang aktif berbicara"
+      },
+      {
+        "id": "B",
+        "text": "Memulai dengan pertanyaan pemantik dari isu nyata di sekolah"
+      },
+      {
+        "id": "C",
+        "text": "Memberi pilihan peran dalam proyek, misalnya peneliti, penulis, atau perancang kampanye"
+      },
+      {
+        "id": "D",
+        "text": "Memperpanjang penjelasan guru agar materi tuntas"
+      },
+      {
+        "id": "E",
+        "text": "Menutup dengan refleksi tentang manfaat belajar bagi kehidupan Murid"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Relevansi, pilihan, dan refleksi menumbuhkan motivasi intrinsik. Imbalan nilai dan ceramah panjang tidak menyentuh penyebab apatis.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-22",
+    "source": "PU",
+    "sourceNumber": 22,
+    "code": "K.3",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Seorang ketua OSIS yang dikenal teladan ketahuan menyontek saat ulangan. Keputusan yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menerapkan konsekuensi yang sama seperti Murid lain sesuai kesepakatan, sambil membina secara pribadi"
+      },
+      {
+        "id": "B",
+        "text": "memaafkannya tanpa konsekuensi karena prestasinya baik"
+      },
+      {
+        "id": "C",
+        "text": "mengumumkan pelanggarannya di upacara sebagai pelajaran bagi semua"
+      },
+      {
+        "id": "D",
+        "text": "langsung mencopot jabatannya tanpa proses"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid lain tidak membicarakannya dan menganggap tidak terjadi apa-apa"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Keadilan dan konsistensi menuntut perlakuan yang sama. Pembinaan pribadi menjaga martabat Murid dan membuka ruang perbaikan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-23",
+    "source": "PU",
+    "sourceNumber": 23,
+    "code": "P.4",
+    "type": "PGK Kategori (Setuju/Tidak Setuju)",
+    "difficulty": "Sangat Sulit",
+    "stem": "Sekolah mempertimbangkan pemakaian AI untuk menilai esai refleksi nilai Pancasila. Tentukan sikap Anda terhadap setiap pernyataan. Pernyataan Setuju Tidak Setuju",
+    "options": [
+      {
+        "id": "1",
+        "text": "AI dapat membantu memberi umpan balik awal tentang struktur tulisan."
+      },
+      {
+        "id": "2",
+        "text": "Keputusan nilai akhir sepenuhnya diserahkan kepada AI."
+      },
+      {
+        "id": "3",
+        "text": "Guru perlu memeriksa kemungkinan bias atau kekeliruan penilaian AI."
+      },
+      {
+        "id": "4",
+        "text": "Data tulisan Murid perlu dilindungi saat memakai layanan AI."
+      }
+    ],
+    "categories": [
+      "Setuju",
+      "Tidak Setuju"
+    ],
+    "answer": [
+      "Setuju",
+      "Tidak Setuju",
+      "Setuju",
+      "Setuju"
+    ],
+    "explanation": "AI dapat membantu, tetapi penilaian tetap menjadi tanggung jawab profesional guru, dengan perlindungan data Murid.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-24",
+    "source": "PU",
+    "sourceNumber": 24,
+    "code": "S.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Guru merancang kegiatan kokurikuler tentang kebersihan lingkungan bersama warga RT di sekitar sekolah. Pilih semua langkah yang menunjukkan kolaborasi bermakna.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Murid dan warga menganalisis masalah sampah bersama"
+      },
+      {
+        "id": "B",
+        "text": "Guru menentukan seluruh kegiatan tanpa melibatkan warga"
+      },
+      {
+        "id": "C",
+        "text": "Kegiatan dilakukan sekali untuk dokumentasi foto lalu selesai"
+      },
+      {
+        "id": "D",
+        "text": "Murid menyusun rencana aksi bersama pengurus RT"
+      },
+      {
+        "id": "E",
+        "text": "Hasil kegiatan dievaluasi dan direfleksikan bersama warga"
+      }
+    ],
+    "answer": [
+      "A",
+      "D",
+      "E"
+    ],
+    "explanation": "Kolaborasi bermakna melibatkan masyarakat sejak analisis masalah sampai evaluasi, bukan sekadar seremoni.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-25",
+    "source": "PU",
+    "sourceNumber": 25,
+    "code": "K.2",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Hasil observasi rekan sejawat menunjukkan Anda lebih sering memberi pertanyaan kepada Murid tertentu yang duduk di depan. Tindak lanjut yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menganggapnya wajar karena Murid tersebut paling aktif"
+      },
+      {
+        "id": "B",
+        "text": "memindahkan Murid yang aktif ke belakang"
+      },
+      {
+        "id": "C",
+        "text": "berhenti bertanya kepada Murid agar adil"
+      },
+      {
+        "id": "D",
+        "text": "menerapkan cara pemanggilan yang merata, misalnya kartu nama acak, lalu meminta observasi ulang untuk melihat"
+      },
+      {
+        "id": "E",
+        "text": "meminta rekan tidak mencatat hal tersebut"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Refleksi yang jujur atas bias sendiri diikuti perubahan praktik yang terukur dan dicek ulang dengan data.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-26",
+    "source": "PU",
+    "sourceNumber": 26,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Asesmen autentik adalah asesmen yang ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "selalu berbentuk tes pilihan ganda"
+      },
+      {
+        "id": "B",
+        "text": "hanya dilakukan di akhir semester"
+      },
+      {
+        "id": "C",
+        "text": "disusun oleh pemerintah pusat"
+      },
+      {
+        "id": "D",
+        "text": "menilai hafalan konsep"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid menunjukkan kompetensi dalam tugas yang bermakna dan mirip situasi nyata"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Asesmen autentik menilai kemampuan menerapkan pengetahuan dan keterampilan dalam konteks nyata.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-27",
+    "source": "PU",
+    "sourceNumber": 27,
+    "code": "P.1",
+    "type": "PGK Kategori (Benar/Salah)",
+    "difficulty": "Mudah",
+    "stem": "Tentukan Benar atau Salah untuk setiap pernyataan tentang pembelajaran inkuiri. Pernyataan Benar Salah",
+    "options": [
+      {
+        "id": "1",
+        "text": "Murid menemukan konsep melalui penyelidikan."
+      },
+      {
+        "id": "2",
+        "text": "Guru memberikan semua jawaban di awal pembelajaran."
+      },
+      {
+        "id": "3",
+        "text": "Pembelajaran diawali dengan stimulus atau pertanyaan."
+      },
+      {
+        "id": "4",
+        "text": "Murid menarik kesimpulan berdasarkan data yang dikumpulkan."
+      }
+    ],
+    "categories": [
+      "Benar",
+      "Salah"
+    ],
+    "answer": [
+      "Benar",
+      "Salah",
+      "Benar",
+      "Benar"
+    ],
+    "explanation": "Dalam inkuiri, guru memfasilitasi agar Murid membangun pemahaman sendiri dari data.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-28",
+    "source": "PU",
+    "sourceNumber": 28,
+    "code": "K.1",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih semua perilaku guru yang menunjukkan keteladanan.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Datang tepat waktu"
+      },
+      {
+        "id": "B",
+        "text": "Merokok di depan Murid"
+      },
+      {
+        "id": "C",
+        "text": "Mengakui kesalahan dan meminta maaf bila keliru"
+      },
+      {
+        "id": "D",
+        "text": "Membeda-bedakan Murid berdasarkan latar belakang"
+      },
+      {
+        "id": "E",
+        "text": "Bersikap adil kepada semua Murid"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation": "Murid belajar nilai dari apa yang mereka lihat dilakukan guru setiap hari.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-29",
+    "source": "PU",
+    "sourceNumber": 29,
+    "code": "P.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Dalam diskusi kelas, sebagian Murid sangat aktif berbicara, sedangkan sebagian lain pemalu dan jarang berpendapat. Teknik yang paling tepat agar semua Murid terlibat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "hanya menunjuk Murid yang aktif"
+      },
+      {
+        "id": "B",
+        "text": "memberi nilai tambahan bagi yang berbicara paling banyak"
+      },
+      {
+        "id": "C",
+        "text": "berpikir-berpasangan-berbagi (think-pair-share), sehingga Murid berpikir sendiri, berdiskusi berdua, lalu berbagi ke"
+      },
+      {
+        "id": "D",
+        "text": "meminta Murid pemalu berbicara di depan kelas tanpa persiapan"
+      },
+      {
+        "id": "E",
+        "text": "membatalkan diskusi"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Waktu berpikir dan berdiskusi berdua membuat Murid pemalu lebih siap dan berani berbagi.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-30",
+    "source": "PU",
+    "sourceNumber": 30,
+    "code": "S.1",
+    "type": "PGK Kategori (Tepat/Tidak Tepat)",
+    "difficulty": "Sedang",
+    "stem": "Seorang orang tua mengeluh anaknya mendapat nilai sikap rendah. Nilailah setiap respons guru berikut. Respons Tepat Tidak Tepat",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menunjukkan catatan perilaku yang menjadi dasar penilaian"
+      },
+      {
+        "id": "2",
+        "text": "Menyatakan bahwa keputusan guru tidak bisa dipertanyakan"
+      },
+      {
+        "id": "3",
+        "text": "Mendengarkan pandangan orang tua tentang perilaku anak di rumah"
+      },
+      {
+        "id": "4",
+        "text": "Menyepakati langkah bersama untuk mendukung anak"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Komunikasi yang efektif bersifat terbuka, berbasis bukti, dan berorientasi pada solusi.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-31",
+    "source": "PU",
+    "sourceNumber": 31,
+    "code": "P.4",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Guru ingin Murid mengenal keberagaman budaya Indonesia secara langsung. Pemanfaatan teknologi yang paling bermakna adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menayangkan foto pakaian adat dari internet"
+      },
+      {
+        "id": "B",
+        "text": "mengadakan pertemuan video dengan kelas di provinsi lain untuk saling memperkenalkan budaya dan berdiskusi"
+      },
+      {
+        "id": "C",
+        "text": "meminta Murid mengunduh gambar rumah adat"
+      },
+      {
+        "id": "D",
+        "text": "memutar lagu daerah tanpa pembahasan"
+      },
+      {
+        "id": "E",
+        "text": "membagikan tautan ensiklopedia daring"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Teknologi memperluas akses pada pengalaman antarbudaya yang autentik dan interaktif.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-32",
+    "source": "PU",
+    "sourceNumber": 32,
+    "code": "P.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih semua strategi yang membuat Murid merasa aman menyampaikan pendapat.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyepakati norma kelas bahwa setiap pertanyaan dihargai"
+      },
+      {
+        "id": "B",
+        "text": "Menertawakan jawaban yang salah agar suasana cair"
+      },
+      {
+        "id": "C",
+        "text": "Memberi waktu tunggu setelah bertanya"
+      },
+      {
+        "id": "D",
+        "text": "Menghargai jawaban Murid lalu menggali alasannya"
+      },
+      {
+        "id": "E",
+        "text": "Hanya menunjuk Murid yang pasti bisa menjawab"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Rasa aman secara psikologis adalah syarat pembelajaran yang menggembirakan dan bermakna.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-33",
+    "source": "PU",
+    "sourceNumber": 33,
+    "code": "K.2",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Dalam siklus refleksi Gibbs, tahap setelah deskripsi dan perasaan adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "rencana tindakan"
+      },
+      {
+        "id": "B",
+        "text": "kesimpulan"
+      },
+      {
+        "id": "C",
+        "text": "analisis"
+      },
+      {
+        "id": "D",
+        "text": "evaluasi"
+      },
+      {
+        "id": "E",
+        "text": "deskripsi ulang"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Urutan siklus Gibbs adalah deskripsi, perasaan, evaluasi, analisis, kesimpulan, dan rencana tindakan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-34",
+    "source": "PU",
+    "sourceNumber": 34,
+    "code": "P.6",
+    "type": "PGK Kategori (Valid/Tidak Valid)",
+    "difficulty": "Sulit",
+    "stem": "Pada penilaian diri tentang sikap toleransi, hampir semua Murid memberi skor maksimal untuk dirinya. Nilailah setiap kesimpulan guru berikut. Kesimpulan Valid Tidak Valid",
+    "options": [
+      {
+        "id": "1",
+        "text": "Semua Murid pasti sudah sangat toleran."
+      },
+      {
+        "id": "2",
+        "text": "Penilaian diri perlu dilengkapi observasi dan penilaian antarteman."
+      },
+      {
+        "id": "3",
+        "text": "Butir penilaian diri perlu dibuat lebih spesifik dan berbasis perilaku."
+      },
+      {
+        "id": "4",
+        "text": "Murid perlu dilatih menilai diri secara jujur dan reflektif."
+      }
+    ],
+    "categories": [
+      "Valid",
+      "Tidak Valid"
+    ],
+    "answer": [
+      "Tidak Valid",
+      "Valid",
+      "Valid",
+      "Valid"
+    ],
+    "explanation": "Penilaian diri rawan bias, sehingga perlu butir yang spesifik dan triangulasi data.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-35",
+    "source": "PU",
+    "sourceNumber": 35,
+    "code": "S.2",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Sekolah merancang kegiatan kokurikuler bertema kearifan lokal. Peran guru Pendidikan Pancasila yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "merancang bersama guru Seni Budaya dan Bahasa Daerah agar Murid meneliti tradisi setempat, mengaitkannya dengan"
+      },
+      {
+        "id": "B",
+        "text": "mengerjakan kegiatan sendiri tanpa koordinasi"
+      },
+      {
+        "id": "C",
+        "text": "menyerahkan semuanya kepada guru Seni Budaya"
+      },
+      {
+        "id": "D",
+        "text": "hanya menilai kehadiran Murid"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid menghafal nama-nama tradisi"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Kolaborasi lintas mata pelajaran membuat kegiatan kokurikuler utuh dan bermakna.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-36",
+    "source": "PU",
+    "sourceNumber": 36,
+    "code": "P.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Dalam diskusi dilema moral, tingkat penalaran Murid sangat beragam. Pilih semua strategi yang tepat.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membentuk kelompok heterogen"
+      },
+      {
+        "id": "B",
+        "text": "Memberi pertanyaan pemandu bertingkat, dari yang sederhana sampai kompleks"
+      },
+      {
+        "id": "C",
+        "text": "Hanya meminta Murid berprestasi berbicara"
+      },
+      {
+        "id": "D",
+        "text": "Memberi peran bergiliran, seperti pencatat, penanya, dan perangkum"
+      },
+      {
+        "id": "E",
+        "text": "Menyampaikan jawaban yang benar di awal diskusi"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Interaksi dengan teman yang penalarannya lebih tinggi dan pertanyaan bertingkat mendorong perkembangan penalaran moral.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-37",
+    "source": "PU",
+    "sourceNumber": 37,
+    "code": "K.3",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Kelas menyepakati larangan memakai ponsel saat pelajaran, tetapi guru sendiri sering membalas pesan pribadi di kelas. Tindakan yang paling tepat bagi guru adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menjelaskan bahwa aturan hanya berlaku bagi Murid"
+      },
+      {
+        "id": "B",
+        "text": "menghapus aturan ponsel"
+      },
+      {
+        "id": "C",
+        "text": "membalas pesan secara diam-diam"
+      },
+      {
+        "id": "D",
+        "text": "meminta Murid tidak memperhatikan guru"
+      },
+      {
+        "id": "E",
+        "text": "menaati aturan yang sama dan, bila perlu, menjelaskan pengecualian yang darurat secara terbuka"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Konsistensi antara kata dan tindakan guru menentukan kepercayaan Murid pada aturan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "PU-38",
+    "source": "PU",
+    "sourceNumber": 38,
+    "code": "S.1",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Seorang orang tua memprotes kegiatan kunjungan ke beberapa rumah ibadah dalam pembelajaran keberagaman. Pilih semua tanggapan guru yang tepat.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mendengarkan keberatan orang tua dengan hormat"
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan tujuan pembelajaran dan kaitannya dengan CP"
+      },
+      {
+        "id": "C",
+        "text": "Langsung membatalkan seluruh materi keberagaman"
+      },
+      {
+        "id": "D",
+        "text": "Menawarkan orang tua melihat rancangan kegiatan dan alternatif tugas yang setara bila diperlukan"
+      },
+      {
+        "id": "E",
+        "text": "Membalas protes di grup kelas dengan nada keras"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Guru berkomunikasi secara empatik sambil tetap menjaga tujuan pembelajaran dan menawarkan alternatif yang tidak melanggar keyakinan keluarga.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "PU-39",
+    "source": "PU",
+    "sourceNumber": 39,
+    "code": "P.1",
+    "type": "PGK Kategori (Setuju/Tidak Setuju)",
+    "difficulty": "Sangat Sulit",
+    "stem": "Guru merasa materi terlalu padat untuk diajarkan secara mendalam. Tentukan sikap Anda terhadap setiap pernyataan. Pernyataan Setuju Tidak Setuju",
+    "options": [
+      {
+        "id": "1",
+        "text": "Guru dapat memilih konsep esensial untuk didalami daripada membahas semua"
+      },
+      {
+        "id": "2",
+        "text": "Semua materi harus diceramahkan agar tidak ada yang terlewat."
+      },
+      {
+        "id": "3",
+        "text": "Beberapa TP dapat dipadukan dalam satu pengalaman belajar yang utuh."
+      },
+      {
+        "id": "4",
+        "text": "Pembelajaran mendalam selalu membutuhkan waktu lebih banyak sehingga tidak"
+      }
+    ],
+    "categories": [
+      "Setuju",
+      "Tidak Setuju"
+    ],
+    "answer": [
+      "Setuju",
+      "Tidak Setuju",
+      "Setuju",
+      "Tidak Setuju"
+    ],
+    "explanation": "Pembelajaran mendalam menuntut pemilihan konsep esensial dan perancangan yang terpadu, bukan penambahan waktu semata.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "PU-40",
+    "source": "PU",
+    "sourceNumber": 40,
+    "code": "K.2",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Rekaman pembelajaran menunjukkan Anda lebih sering memberi peran ketua diskusi kepada Murid laki- laki. Tindak lanjut yang paling tepat adalah ….",
+    "options": [
+      {
+        "id": "A",
+        "text": "menganggapnya kebetulan"
+      },
+      {
+        "id": "B",
+        "text": "hanya memberi peran ketua kepada Murid perempuan mulai sekarang"
+      },
+      {
+        "id": "C",
+        "text": "menyusun sistem pembagian peran bergilir, mencatat sebarannya, dan merefleksikan hasilnya secara berkala"
+      },
+      {
+        "id": "D",
+        "text": "menghapus peran ketua dalam diskusi"
+      },
+      {
+        "id": "E",
+        "text": "meminta Murid memilih sendiri tanpa aturan"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Bias yang tidak disadari diatasi dengan sistem yang adil dan pemantauan berbasis data, bukan dengan membalik bias.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-1",
+    "source": "Pengembangan",
+    "sourceNumber": 1,
+    "code": "PF.1",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Tujuan utama Pendidikan Pancasila di satuan pendidikan adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "membentuk warga negara yang memahami dan mengamalkan nilai Pancasila serta konstitusi"
+      },
+      {
+        "id": "B",
+        "text": "mengutamakan hafalan istilah ketatanegaraan"
+      },
+      {
+        "id": "C",
+        "text": "menyiapkan peserta didik menjadi ahli hukum"
+      },
+      {
+        "id": "D",
+        "text": "membatasi pembahasan pada sejarah kemerdekaan"
+      },
+      {
+        "id": "E",
+        "text": "menggantikan seluruh mata pelajaran sosial"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Pendidikan Pancasila mengembangkan pengetahuan, sikap, dan keterampilan kewargaan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-2",
+    "source": "Pengembangan",
+    "sourceNumber": 2,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Pancasila sebagai dasar negara memiliki kedudukan sebagai …",
+    "options": [
+      {
+        "id": "A",
+        "text": "sumber dari segala sumber hukum negara"
+      },
+      {
+        "id": "B",
+        "text": "peraturan daerah tertinggi"
+      },
+      {
+        "id": "C",
+        "text": "keputusan presiden"
+      },
+      {
+        "id": "D",
+        "text": "dokumen sejarah yang tidak mengikat"
+      },
+      {
+        "id": "E",
+        "text": "program kerja kementerian"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Pancasila menjadi dasar nilai bagi penyelenggaraan negara dan pembentukan hukum.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-3",
+    "source": "Pengembangan",
+    "sourceNumber": 3,
+    "code": "PF.3",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Peserta didik menganggap kebebasan berpendapat berarti boleh menghina orang lain. Respons pembelajaran paling tepat adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "melarang semua perbedaan pendapat"
+      },
+      {
+        "id": "B",
+        "text": "mengkaji kebebasan berpendapat bersama batas penghormatan HAM dan tanggung jawab"
+      },
+      {
+        "id": "C",
+        "text": "meminta peserta didik menghafal pasal tanpa konteks"
+      },
+      {
+        "id": "D",
+        "text": "membiarkan karena terjadi di media sosial"
+      },
+      {
+        "id": "E",
+        "text": "memberi nilai nol tanpa dialog"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Kebebasan berpendapat dijalankan dengan tanggung jawab dan menghormati hak orang lain.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-4",
+    "source": "Pengembangan",
+    "sourceNumber": 4,
+    "code": "PF.4",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Guru mengaitkan materi konstitusi dengan perubahan kebijakan di lingkungan sekitar. Tindakan ini menunjukkan kurikulum …",
+    "options": [
+      {
+        "id": "A",
+        "text": "adaptif dan kontekstual"
+      },
+      {
+        "id": "B",
+        "text": "berorientasi hafalan"
+      },
+      {
+        "id": "C",
+        "text": "terlepas dari kehidupan nyata"
+      },
+      {
+        "id": "D",
+        "text": "seragam tanpa memperhatikan konteks"
+      },
+      {
+        "id": "E",
+        "text": "hanya berfokus pada ujian"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Kontekstualisasi menghubungkan kompetensi kurikulum dengan isu nyata.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-5",
+    "source": "Pengembangan",
+    "sourceNumber": 5,
+    "code": "PF.5",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Guru ingin menguji apakah proyek kampanye antiperundungan benar-benar berdampak. Bukti paling kuat adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "jumlah slide presentasi"
+      },
+      {
+        "id": "B",
+        "text": "perubahan perilaku yang diamati dengan indikator sebelum dan sesudah kegiatan"
+      },
+      {
+        "id": "C",
+        "text": "banyaknya warna pada poster"
+      },
+      {
+        "id": "D",
+        "text": "lama waktu peserta didik berbicara"
+      },
+      {
+        "id": "E",
+        "text": "jumlah halaman laporan"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Evaluasi dampak memerlukan bukti perilaku yang relevan dan terukur.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-6",
+    "source": "Pengembangan",
+    "sourceNumber": 6,
+    "code": "P.1",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Dalam perencanaan UbD, setelah menetapkan hasil belajar yang diinginkan, guru sebaiknya …",
+    "options": [
+      {
+        "id": "A",
+        "text": "menentukan bukti asesmen yang menunjukkan ketercapaian"
+      },
+      {
+        "id": "B",
+        "text": "langsung memilih dekorasi kelas"
+      },
+      {
+        "id": "C",
+        "text": "menyusun daftar hadir"
+      },
+      {
+        "id": "D",
+        "text": "menentukan hadiah"
+      },
+      {
+        "id": "E",
+        "text": "membuat rangkuman materi"
+      }
+    ],
+    "answer": "A",
+    "explanation": "UbD bergerak dari hasil belajar, bukti asesmen, lalu pengalaman belajar.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-7",
+    "source": "Pengembangan",
+    "sourceNumber": 7,
+    "code": "P.2",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Seorang peserta didik kesulitan membaca teks panjang. Penyesuaian yang tetap menjaga tujuan belajar adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "mengeluarkannya dari kegiatan"
+      },
+      {
+        "id": "B",
+        "text": "menyediakan teks bertahap atau audio dan waktu pemrosesan tambahan"
+      },
+      {
+        "id": "C",
+        "text": "mengurangi seluruh tujuan pembelajaran"
+      },
+      {
+        "id": "D",
+        "text": "meminta teman mengerjakan tugasnya"
+      },
+      {
+        "id": "E",
+        "text": "memberi tugas yang tidak berkaitan"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Akomodasi mengubah akses atau dukungan, bukan menghilangkan tujuan esensial.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-8",
+    "source": "Pengembangan",
+    "sourceNumber": 8,
+    "code": "P.3",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Contoh kegiatan yang menggabungkan mindful, meaningful, dan joyful adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "menyalin definisi selama satu jam"
+      },
+      {
+        "id": "B",
+        "text": "menganalisis masalah nyata, berdiskusi dengan aman, lalu merefleksikan pembelajaran"
+      },
+      {
+        "id": "C",
+        "text": "menghafal tanpa jeda"
+      },
+      {
+        "id": "D",
+        "text": "berkompetisi tanpa aturan"
+      },
+      {
+        "id": "E",
+        "text": "menonton video tanpa tindak lanjut"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Pembelajaran mendalam mengaitkan kesadaran, relevansi, dan pengalaman positif.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-9",
+    "source": "Pengembangan",
+    "sourceNumber": 9,
+    "code": "P.4",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Sebelum membagikan informasi politik yang viral, peserta didik sebaiknya …",
+    "options": [
+      {
+        "id": "A",
+        "text": "langsung meneruskan"
+      },
+      {
+        "id": "B",
+        "text": "memeriksa sumber, tanggal, konteks, dan pembanding tepercaya"
+      },
+      {
+        "id": "C",
+        "text": "mengubah judul agar menarik"
+      },
+      {
+        "id": "D",
+        "text": "menilai dari jumlah suka"
+      },
+      {
+        "id": "E",
+        "text": "mengirim ke semua grup"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Literasi digital mencakup verifikasi sumber dan konteks.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-10",
+    "source": "Pengembangan",
+    "sourceNumber": 10,
+    "code": "P.5",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Untuk mengajarkan musyawarah dengan konteks lokal, guru paling tepat …",
+    "options": [
+      {
+        "id": "A",
+        "text": "menggunakan contoh forum warga atau musyawarah kelas"
+      },
+      {
+        "id": "B",
+        "text": "hanya meminta hafalan sila keempat"
+      },
+      {
+        "id": "C",
+        "text": "menghindari pengalaman masyarakat"
+      },
+      {
+        "id": "D",
+        "text": "memakai contoh yang tidak dikenal peserta didik"
+      },
+      {
+        "id": "E",
+        "text": "mengganti diskusi dengan dikte"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Kearifan lokal membuat konsep lebih dekat dengan pengalaman peserta didik.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-11",
+    "source": "Pengembangan",
+    "sourceNumber": 11,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Hasil asesmen formatif menunjukkan banyak peserta didik keliru membedakan hak dan kewajiban. Guru sebaiknya …",
+    "options": [
+      {
+        "id": "A",
+        "text": "melanjutkan materi tanpa perubahan"
+      },
+      {
+        "id": "B",
+        "text": "menganalisis pola kesalahan lalu memberi pembelajaran ulang yang terarah"
+      },
+      {
+        "id": "C",
+        "text": "memberi hukuman"
+      },
+      {
+        "id": "D",
+        "text": "menghapus tujuan pembelajaran"
+      },
+      {
+        "id": "E",
+        "text": "hanya mengumumkan nilai"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Asesmen formatif digunakan untuk menentukan tindak lanjut pembelajaran.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-12",
+    "source": "Pengembangan",
+    "sourceNumber": 12,
+    "code": "K.1",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Guru menemukan peserta didik mengejek keyakinan temannya. Keteladanan paling tepat adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "menegur dengan merendahkan pelaku"
+      },
+      {
+        "id": "B",
+        "text": "menunjukkan sikap hormat, menghentikan ejekan, dan memulihkan rasa aman"
+      },
+      {
+        "id": "C",
+        "text": "membiarkan agar selesai sendiri"
+      },
+      {
+        "id": "D",
+        "text": "membalas dengan ejekan"
+      },
+      {
+        "id": "E",
+        "text": "meminta korban pindah kelas"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Keteladanan etis ditunjukkan melalui tindakan adil, empatik, dan menghormati martabat.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-13",
+    "source": "Pengembangan",
+    "sourceNumber": 13,
+    "code": "K.2",
+    "type": "PG",
+    "difficulty": "Mudah",
+    "stem": "Setelah pembelajaran tidak mencapai tujuan, sikap reflektif guru adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "menyalahkan peserta didik"
+      },
+      {
+        "id": "B",
+        "text": "menelaah bukti belajar dan merencanakan perbaikan"
+      },
+      {
+        "id": "C",
+        "text": "mengulang metode yang sama tanpa evaluasi"
+      },
+      {
+        "id": "D",
+        "text": "mengabaikan hasil asesmen"
+      },
+      {
+        "id": "E",
+        "text": "menyembunyikan kendala"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Refleksi menggunakan bukti untuk memperbaiki praktik secara berkelanjutan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-14",
+    "source": "Pengembangan",
+    "sourceNumber": 14,
+    "code": "K.3",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Dua peserta didik melanggar kesepakatan kelas yang sama. Guru yang konsisten akan …",
+    "options": [
+      {
+        "id": "A",
+        "text": "memberi konsekuensi berdasarkan kedekatan"
+      },
+      {
+        "id": "B",
+        "text": "menerapkan kesepakatan secara adil dengan mempertimbangkan konteks secara proporsional"
+      },
+      {
+        "id": "C",
+        "text": "membebaskan peserta didik berprestasi"
+      },
+      {
+        "id": "D",
+        "text": "mengubah aturan secara sepihak"
+      },
+      {
+        "id": "E",
+        "text": "mengumumkan kesalahan untuk mempermalukan"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Konsistensi berarti adil dan transparan, bukan diskriminatif.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-15",
+    "source": "Pengembangan",
+    "sourceNumber": 15,
+    "code": "S.1",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Saat peserta didik menyampaikan pendapat yang berbeda, respons komunikasi inklusif adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "memotong pembicaraan"
+      },
+      {
+        "id": "B",
+        "text": "mendengarkan, mengklarifikasi, dan menanggapi gagasan tanpa menyerang pribadi"
+      },
+      {
+        "id": "C",
+        "text": "menertawakan pendapat"
+      },
+      {
+        "id": "D",
+        "text": "meminta diam"
+      },
+      {
+        "id": "E",
+        "text": "mengabaikan kelompok tertentu"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Komunikasi inklusif menghargai suara dan martabat setiap peserta didik.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-16",
+    "source": "Pengembangan",
+    "sourceNumber": 16,
+    "code": "S.2",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Untuk mengkaji pelayanan publik di lingkungan sekitar, kolaborasi yang tepat adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "mengundang narasumber warga atau perangkat setempat dan memeriksa informasi bersama"
+      },
+      {
+        "id": "B",
+        "text": "mengandalkan satu unggahan anonim"
+      },
+      {
+        "id": "C",
+        "text": "meminta peserta didik menebak"
+      },
+      {
+        "id": "D",
+        "text": "melarang interaksi masyarakat"
+      },
+      {
+        "id": "E",
+        "text": "menyalin artikel tanpa diskusi"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Kolaborasi menghadirkan sumber autentik dan memperkaya pemahaman.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-17",
+    "source": "Pengembangan",
+    "sourceNumber": 17,
+    "code": "S.3",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Kegiatan komunitas belajar yang berorientasi pada peningkatan mutu adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "berbagi praktik, menelaah hasil belajar, dan menyepakati tindak lanjut"
+      },
+      {
+        "id": "B",
+        "text": "hanya membahas pembagian konsumsi"
+      },
+      {
+        "id": "C",
+        "text": "mengumpulkan tanda tangan tanpa diskusi"
+      },
+      {
+        "id": "D",
+        "text": "menilai guru berdasarkan popularitas"
+      },
+      {
+        "id": "E",
+        "text": "menghindari umpan balik"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Komunitas belajar berfokus pada praktik dan dampaknya terhadap belajar.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-18",
+    "source": "Pengembangan",
+    "sourceNumber": 18,
+    "code": "PF.2",
+    "type": "PG",
+    "difficulty": "Sangat Sulit",
+    "stem": "Dalam membahas konflik norma, peserta didik diminta menilai suatu kebijakan. Landasan analisis yang paling tepat adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "kesukaan pribadi semata"
+      },
+      {
+        "id": "B",
+        "text": "Pancasila, UUD NRI Tahun 1945, peraturan terkait, dan dampak terhadap hak warga"
+      },
+      {
+        "id": "C",
+        "text": "jumlah komentar media sosial"
+      },
+      {
+        "id": "D",
+        "text": "pendapat tokoh yang paling terkenal"
+      },
+      {
+        "id": "E",
+        "text": "kebiasaan kelompok mayoritas saja"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Analisis kewargaan perlu memakai dasar konstitusional dan mempertimbangkan hak warga.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-19",
+    "source": "Pengembangan",
+    "sourceNumber": 19,
+    "code": "P.6",
+    "type": "PG",
+    "difficulty": "Sedang",
+    "stem": "Umpan balik yang paling membantu peserta didik memperbaiki argumen adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "nilai angka saja"
+      },
+      {
+        "id": "B",
+        "text": "komentar spesifik tentang klaim, bukti, dan alasan perbaikan"
+      },
+      {
+        "id": "C",
+        "text": "label pintar atau kurang pintar"
+      },
+      {
+        "id": "D",
+        "text": "komentar umum tanpa contoh"
+      },
+      {
+        "id": "E",
+        "text": "membandingkan dengan teman"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Umpan balik efektif jelas, spesifik, dan memberi arah tindak lanjut.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-20",
+    "source": "Pengembangan",
+    "sourceNumber": 20,
+    "code": "PF.3",
+    "type": "PG",
+    "difficulty": "Sulit",
+    "stem": "Peserta didik menghafal jenis norma tetapi sulit menerapkannya pada kasus. Strategi terbaik adalah …",
+    "options": [
+      {
+        "id": "A",
+        "text": "menambah hafalan daftar"
+      },
+      {
+        "id": "B",
+        "text": "menganalisis beberapa kasus nyata dan mengelompokkan dasar normanya"
+      },
+      {
+        "id": "C",
+        "text": "menghapus materi"
+      },
+      {
+        "id": "D",
+        "text": "memberi ceramah lebih cepat"
+      },
+      {
+        "id": "E",
+        "text": "meminta menyalin buku"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Kasus kontekstual membantu transfer konsep ke situasi kehidupan.",
+    "typeLabel": "Pilihan Ganda"
+  },
+  {
+    "id": "LAT-21",
+    "source": "Pengembangan",
+    "sourceNumber": 21,
+    "code": "PF.2",
+    "type": "PGK Kategori",
+    "difficulty": "Mudah",
+    "stem": "Tentukan kategori setiap pernyataan tentang nilai Pancasila.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menghormati kebebasan beribadah"
+      },
+      {
+        "id": "2",
+        "text": "Mengutamakan persatuan di tengah perbedaan"
+      },
+      {
+        "id": "3",
+        "text": "Memaksakan pendapat kepada kelompok lain"
+      },
+      {
+        "id": "4",
+        "text": "Mengambil keputusan melalui musyawarah"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-22",
+    "source": "Pengembangan",
+    "sourceNumber": 22,
+    "code": "PF.3",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Nilailah tindakan berikut dalam pembelajaran keberagaman.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menggunakan contoh dari berbagai budaya"
+      },
+      {
+        "id": "2",
+        "text": "Menganggap satu budaya lebih unggul"
+      },
+      {
+        "id": "3",
+        "text": "Mendorong dialog antarkelompok"
+      },
+      {
+        "id": "4",
+        "text": "Menggeneralisasi karakter seseorang berdasarkan suku"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-23",
+    "source": "Pengembangan",
+    "sourceNumber": 23,
+    "code": "PF.4",
+    "type": "PGK Kategori",
+    "difficulty": "Sulit",
+    "stem": "Tentukan kesesuaian praktik pembelajaran kontekstual berikut.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mengaitkan isu aktual dengan tujuan pembelajaran"
+      },
+      {
+        "id": "2",
+        "text": "Memakai isu viral tanpa memeriksa kebenarannya"
+      },
+      {
+        "id": "3",
+        "text": "Mengajak peserta didik membandingkan sumber"
+      },
+      {
+        "id": "4",
+        "text": "Menggunakan konteks lokal untuk memperdalam konsep"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-24",
+    "source": "Pengembangan",
+    "sourceNumber": 24,
+    "code": "PF.5",
+    "type": "PGK Kategori",
+    "difficulty": "Sangat Sulit",
+    "stem": "Nilailah bukti yang layak digunakan untuk mengevaluasi proyek kewargaan.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menggunakan rubrik yang selaras dengan tujuan"
+      },
+      {
+        "id": "2",
+        "text": "Mengandalkan kesan pribadi tanpa indikator"
+      },
+      {
+        "id": "3",
+        "text": "Membandingkan produk dengan kriteria yang diumumkan"
+      },
+      {
+        "id": "4",
+        "text": "Merefleksikan proses dan dampak proyek"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-25",
+    "source": "Pengembangan",
+    "sourceNumber": 25,
+    "code": "P.1",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Tentukan kesesuaian langkah perencanaan pembelajaran berbasis UbD.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Merumuskan hasil belajar yang diinginkan"
+      },
+      {
+        "id": "2",
+        "text": "Menentukan bukti asesmen setelah tujuan jelas"
+      },
+      {
+        "id": "3",
+        "text": "Memilih aktivitas tanpa mempertimbangkan tujuan"
+      },
+      {
+        "id": "4",
+        "text": "Menyelaraskan pengalaman belajar dengan bukti asesmen"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-26",
+    "source": "Pengembangan",
+    "sourceNumber": 26,
+    "code": "P.2",
+    "type": "PGK Kategori",
+    "difficulty": "Sulit",
+    "stem": "Nilailah respons guru terhadap keragaman kebutuhan peserta didik.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Memberi beberapa cara untuk mengakses materi"
+      },
+      {
+        "id": "2",
+        "text": "Menganggap semua peserta didik harus memakai cara yang sama"
+      },
+      {
+        "id": "3",
+        "text": "Memberi dukungan sesuai kebutuhan tanpa memberi stigma"
+      },
+      {
+        "id": "4",
+        "text": "Mengeluarkan peserta didik dari tujuan esensial"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-27",
+    "source": "Pengembangan",
+    "sourceNumber": 27,
+    "code": "P.3",
+    "type": "PGK Kategori",
+    "difficulty": "Mudah",
+    "stem": "Tentukan apakah kegiatan berikut mendukung pembelajaran mendalam.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mengaitkan materi dengan pengalaman sehari-hari"
+      },
+      {
+        "id": "2",
+        "text": "Memberi ruang refleksi atas strategi belajar"
+      },
+      {
+        "id": "3",
+        "text": "Meminta peserta didik menyalin tanpa memahami"
+      },
+      {
+        "id": "4",
+        "text": "Membangun suasana aman untuk bertanya"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-28",
+    "source": "Pengembangan",
+    "sourceNumber": 28,
+    "code": "P.4",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Nilailah praktik literasi digital berikut.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Memeriksa kredibilitas sumber sebelum membagikan"
+      },
+      {
+        "id": "2",
+        "text": "Menyebarkan informasi karena judulnya sensasional"
+      },
+      {
+        "id": "3",
+        "text": "Menghargai privasi dan data pribadi"
+      },
+      {
+        "id": "4",
+        "text": "Membedakan fakta, opini, dan iklan"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-29",
+    "source": "Pengembangan",
+    "sourceNumber": 29,
+    "code": "P.5",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Tentukan kesesuaian pemanfaatan lingkungan sebagai sumber belajar.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mengundang narasumber lokal yang relevan"
+      },
+      {
+        "id": "2",
+        "text": "Menggunakan tradisi lokal tanpa menelaah nilai dan konteks"
+      },
+      {
+        "id": "3",
+        "text": "Mengamati praktik musyawarah masyarakat"
+      },
+      {
+        "id": "4",
+        "text": "Menghubungkan temuan lapangan dengan konsep"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-30",
+    "source": "Pengembangan",
+    "sourceNumber": 30,
+    "code": "P.6",
+    "type": "PGK Kategori",
+    "difficulty": "Sulit",
+    "stem": "Nilailah penggunaan asesmen formatif berikut.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menggunakan hasil kuis untuk menyesuaikan pembelajaran"
+      },
+      {
+        "id": "2",
+        "text": "Memberi umpan balik spesifik dan tepat waktu"
+      },
+      {
+        "id": "3",
+        "text": "Menggunakan nilai tes sebagai satu-satunya ukuran sikap"
+      },
+      {
+        "id": "4",
+        "text": "Melibatkan refleksi diri peserta didik"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-31",
+    "source": "Pengembangan",
+    "sourceNumber": 31,
+    "code": "K.1",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Tentukan kesesuaian perilaku guru sebagai teladan etis.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mengakui kesalahan dan meminta maaf"
+      },
+      {
+        "id": "2",
+        "text": "Memperlakukan peserta didik secara hormat"
+      },
+      {
+        "id": "3",
+        "text": "Menggunakan ejekan sebagai cara mendisiplinkan"
+      },
+      {
+        "id": "4",
+        "text": "Menjaga ucapan dan tindakan tetap santun"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-32",
+    "source": "Pengembangan",
+    "sourceNumber": 32,
+    "code": "K.2",
+    "type": "PGK Kategori",
+    "difficulty": "Mudah",
+    "stem": "Nilailah praktik refleksi dan pengembangan diri guru.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mencatat hal yang berhasil dan perlu diperbaiki"
+      },
+      {
+        "id": "2",
+        "text": "Menghindari masukan dari rekan"
+      },
+      {
+        "id": "3",
+        "text": "Mencoba strategi baru berdasarkan kebutuhan belajar"
+      },
+      {
+        "id": "4",
+        "text": "Menelaah hasil asesmen untuk perbaikan"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-33",
+    "source": "Pengembangan",
+    "sourceNumber": 33,
+    "code": "K.3",
+    "type": "PGK Kategori",
+    "difficulty": "Sulit",
+    "stem": "Tentukan kesesuaian tindakan guru dalam menjaga budaya belajar.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menerapkan kesepakatan secara konsisten"
+      },
+      {
+        "id": "2",
+        "text": "Memberi pengecualian karena kedekatan pribadi"
+      },
+      {
+        "id": "3",
+        "text": "Melibatkan peserta didik meninjau aturan"
+      },
+      {
+        "id": "4",
+        "text": "Memberi konsekuensi yang mendidik dan proporsional"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-34",
+    "source": "Pengembangan",
+    "sourceNumber": 34,
+    "code": "S.1",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Nilailah praktik komunikasi inklusif.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Memberi kesempatan bicara secara adil"
+      },
+      {
+        "id": "2",
+        "text": "Mendengarkan tanpa menghakimi"
+      },
+      {
+        "id": "3",
+        "text": "Menggunakan label berdasarkan kondisi fisik"
+      },
+      {
+        "id": "4",
+        "text": "Memastikan instruksi dapat dipahami semua peserta didik"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-35",
+    "source": "Pengembangan",
+    "sourceNumber": 35,
+    "code": "S.2",
+    "type": "PGK Kategori",
+    "difficulty": "Sulit",
+    "stem": "Tentukan kesesuaian bentuk kolaborasi untuk pembelajaran.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Berkoordinasi dengan orang tua untuk dukungan belajar"
+      },
+      {
+        "id": "2",
+        "text": "Mengabaikan informasi relevan dari keluarga"
+      },
+      {
+        "id": "3",
+        "text": "Mengundang komunitas sebagai sumber belajar"
+      },
+      {
+        "id": "4",
+        "text": "Menyepakati peran dan tujuan kolaborasi"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-36",
+    "source": "Pengembangan",
+    "sourceNumber": 36,
+    "code": "S.3",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Nilailah kegiatan pengembangan keprofesian berkelanjutan.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mengikuti komunitas belajar aktif"
+      },
+      {
+        "id": "2",
+        "text": "Menganalisis pembelajaran bersama sejawat"
+      },
+      {
+        "id": "3",
+        "text": "Menolak seluruh umpan balik"
+      },
+      {
+        "id": "4",
+        "text": "Mendokumentasikan dan membagikan praktik baik"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-37",
+    "source": "Pengembangan",
+    "sourceNumber": 37,
+    "code": "PF.1",
+    "type": "PGK Kategori",
+    "difficulty": "Mudah",
+    "stem": "Tentukan kesesuaian tujuan Pendidikan Pancasila berikut.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mengembangkan kompetensi kewargaan"
+      },
+      {
+        "id": "2",
+        "text": "Mendorong pengamalan nilai Pancasila"
+      },
+      {
+        "id": "3",
+        "text": "Membatasi hasil belajar pada hafalan"
+      },
+      {
+        "id": "4",
+        "text": "Mengembangkan tanggung jawab sebagai warga negara"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-38",
+    "source": "Pengembangan",
+    "sourceNumber": 38,
+    "code": "PF.2",
+    "type": "PGK Kategori",
+    "difficulty": "Sangat Sulit",
+    "stem": "Nilailah pernyataan tentang konstitusi dan kehidupan bernegara.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Konstitusi menjadi rujukan penyelenggaraan negara"
+      },
+      {
+        "id": "2",
+        "text": "Hak warga dapat dibatasi tanpa dasar hukum"
+      },
+      {
+        "id": "3",
+        "text": "Prinsip negara hukum menuntut tindakan pemerintah berdasar hukum"
+      },
+      {
+        "id": "4",
+        "text": "Hak dan kewajiban perlu dipahami secara seimbang"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-39",
+    "source": "Pengembangan",
+    "sourceNumber": 39,
+    "code": "P.2",
+    "type": "PGK Kategori",
+    "difficulty": "Sedang",
+    "stem": "Tentukan kesesuaian penerapan diferensiasi pembelajaran.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Menyesuaikan dukungan berdasarkan asesmen awal"
+      },
+      {
+        "id": "2",
+        "text": "Memberi label tetap berdasarkan kemampuan awal"
+      },
+      {
+        "id": "3",
+        "text": "Menyediakan pilihan produk yang setara tujuan"
+      },
+      {
+        "id": "4",
+        "text": "Mengelompokkan ulang secara fleksibel sesuai perkembangan"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-40",
+    "source": "Pengembangan",
+    "sourceNumber": 40,
+    "code": "P.6",
+    "type": "PGK Kategori",
+    "difficulty": "Sangat Sulit",
+    "stem": "Nilailah keputusan tindak lanjut berdasarkan data asesmen.",
+    "options": [
+      {
+        "id": "1",
+        "text": "Mencari pola kesalahan sebelum merancang remedial"
+      },
+      {
+        "id": "2",
+        "text": "Menggunakan satu skor untuk menyimpulkan seluruh karakter"
+      },
+      {
+        "id": "3",
+        "text": "Memberi pengayaan bagi peserta didik yang sudah mencapai tujuan"
+      },
+      {
+        "id": "4",
+        "text": "Memeriksa kembali efektivitas tindak lanjut"
+      }
+    ],
+    "categories": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "answer": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat",
+      "Tepat"
+    ],
+    "explanation": "Penilaian didasarkan pada keselarasan tindakan dengan prinsip kompetensi yang diuji serta kebutuhan belajar peserta didik.",
+    "typeLabel": "PGK Kategori"
+  },
+  {
+    "id": "LAT-41",
+    "source": "Pengembangan",
+    "sourceNumber": 41,
+    "code": "PF.1",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih praktik yang menunjukkan tujuan Pendidikan Pancasila berorientasi pada kompetensi kewargaan.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menganalisis persoalan publik dengan nilai Pancasila"
+      },
+      {
+        "id": "B",
+        "text": "Menghafal istilah tanpa penerapan"
+      },
+      {
+        "id": "C",
+        "text": "Berpartisipasi dalam musyawarah kelas"
+      },
+      {
+        "id": "D",
+        "text": "Merefleksikan tanggung jawab sebagai warga"
+      },
+      {
+        "id": "E",
+        "text": "Menghindari semua isu sosial"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Kompetensi kewargaan memadukan pengetahuan, partisipasi, dan tanggung jawab.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-42",
+    "source": "Pengembangan",
+    "sourceNumber": 42,
+    "code": "PF.2",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih pernyataan yang tepat tentang kedudukan Pancasila.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pancasila merupakan dasar negara"
+      },
+      {
+        "id": "B",
+        "text": "Pancasila menjadi sumber nilai pembentukan hukum"
+      },
+      {
+        "id": "C",
+        "text": "Pancasila hanya berlaku dalam upacara"
+      },
+      {
+        "id": "D",
+        "text": "Pancasila menjadi pandangan hidup bangsa"
+      },
+      {
+        "id": "E",
+        "text": "Pancasila dapat diganti dengan peraturan daerah"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Pancasila berkedudukan sebagai dasar negara dan pandangan hidup bangsa.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-43",
+    "source": "Pengembangan",
+    "sourceNumber": 43,
+    "code": "PF.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih pendekatan yang membantu peserta didik mentransfer konsep norma ke kehidupan.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menganalisis kasus pelanggaran norma"
+      },
+      {
+        "id": "B",
+        "text": "Membandingkan alasan di balik beberapa norma"
+      },
+      {
+        "id": "C",
+        "text": "Menghafal daftar tanpa contoh"
+      },
+      {
+        "id": "D",
+        "text": "Menyusun solusi berdasarkan prinsip yang relevan"
+      },
+      {
+        "id": "E",
+        "text": "Menghindari diskusi kasus"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "Analisis kasus, perbandingan, dan penyusunan solusi memperkuat penerapan konsep.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-44",
+    "source": "Pengembangan",
+    "sourceNumber": 44,
+    "code": "PF.4",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih tindakan guru yang menunjukkan adaptasi kurikulum secara kontekstual.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menghubungkan CP dengan isu lokal yang relevan"
+      },
+      {
+        "id": "B",
+        "text": "Mengabaikan capaian pembelajaran"
+      },
+      {
+        "id": "C",
+        "text": "Memilih contoh yang dekat dengan kehidupan peserta didik"
+      },
+      {
+        "id": "D",
+        "text": "Memastikan konteks tetap selaras dengan tujuan"
+      },
+      {
+        "id": "E",
+        "text": "Mengganti tujuan berdasarkan tren tanpa analisis"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "Adaptasi tetap menjaga keselarasan dengan CP dan kebutuhan peserta didik.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-45",
+    "source": "Pengembangan",
+    "sourceNumber": 45,
+    "code": "PF.5",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Pilih bukti yang dapat mendukung evaluasi praktik profesional guru.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data hasil asesmen peserta didik"
+      },
+      {
+        "id": "B",
+        "text": "Catatan observasi proses pembelajaran"
+      },
+      {
+        "id": "C",
+        "text": "Refleksi berbasis bukti dan tindak lanjut"
+      },
+      {
+        "id": "D",
+        "text": "Dugaan tanpa dokumentasi"
+      },
+      {
+        "id": "E",
+        "text": "Umpan balik sejawat yang relevan"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Evaluasi profesional menggunakan beragam bukti dan refleksi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-46",
+    "source": "Pengembangan",
+    "sourceNumber": 46,
+    "code": "P.1",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih komponen yang penting dalam rancangan pembelajaran yang selaras.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan pembelajaran"
+      },
+      {
+        "id": "B",
+        "text": "Bukti asesmen"
+      },
+      {
+        "id": "C",
+        "text": "Pengalaman belajar"
+      },
+      {
+        "id": "D",
+        "text": "Aktivitas yang tidak terkait tujuan"
+      },
+      {
+        "id": "E",
+        "text": "Refleksi pembelajaran"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Rancangan selaras menghubungkan tujuan, asesmen, pengalaman, dan refleksi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-47",
+    "source": "Pengembangan",
+    "sourceNumber": 47,
+    "code": "P.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih dukungan yang dapat membantu partisipasi peserta didik dengan kebutuhan beragam.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Instruksi bertahap dan jelas"
+      },
+      {
+        "id": "B",
+        "text": "Pilihan cara menunjukkan pemahaman"
+      },
+      {
+        "id": "C",
+        "text": "Akomodasi akses yang relevan"
+      },
+      {
+        "id": "D",
+        "text": "Mengucilkan peserta didik dari diskusi"
+      },
+      {
+        "id": "E",
+        "text": "Dukungan berdasarkan asesmen kebutuhan"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Dukungan inklusif membuka akses dan partisipasi tanpa mengucilkan.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-48",
+    "source": "Pengembangan",
+    "sourceNumber": 48,
+    "code": "P.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih ciri pembelajaran yang berkesadaran dan bermakna.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Peserta didik memahami tujuan belajar"
+      },
+      {
+        "id": "B",
+        "text": "Materi dihubungkan dengan konteks nyata"
+      },
+      {
+        "id": "C",
+        "text": "Refleksi proses dan strategi belajar"
+      },
+      {
+        "id": "D",
+        "text": "Seluruh kegiatan hanya mengejar kecepatan"
+      },
+      {
+        "id": "E",
+        "text": "Peserta didik pasif menyalin"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "Kesadaran tujuan, relevansi, dan refleksi mendukung pembelajaran mendalam.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-49",
+    "source": "Pengembangan",
+    "sourceNumber": 49,
+    "code": "P.4",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih praktik aman dan kritis dalam penggunaan teknologi pembelajaran.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memverifikasi informasi digital"
+      },
+      {
+        "id": "B",
+        "text": "Menjaga data pribadi"
+      },
+      {
+        "id": "C",
+        "text": "Menghormati hak cipta sumber"
+      },
+      {
+        "id": "D",
+        "text": "Menyebarkan identitas teman tanpa izin"
+      },
+      {
+        "id": "E",
+        "text": "Memanfaatkan teknologi untuk kolaborasi"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Literasi digital mencakup verifikasi, privasi, etika, dan kolaborasi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-50",
+    "source": "Pengembangan",
+    "sourceNumber": 50,
+    "code": "P.5",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih sumber belajar kontekstual untuk topik musyawarah.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Musyawarah kelas"
+      },
+      {
+        "id": "B",
+        "text": "Praktik forum warga setempat"
+      },
+      {
+        "id": "C",
+        "text": "Wawancara tokoh masyarakat"
+      },
+      {
+        "id": "D",
+        "text": "Contoh yang sama sekali tidak relevan"
+      },
+      {
+        "id": "E",
+        "text": "Dokumentasi keputusan bersama"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Sumber autentik dan lingkungan sekitar memperkaya pemahaman konsep.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-51",
+    "source": "Pengembangan",
+    "sourceNumber": 51,
+    "code": "P.6",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih tindakan yang termasuk asesmen untuk pembelajaran.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan pertanyaan diagnostik"
+      },
+      {
+        "id": "B",
+        "text": "Memberi umpan balik untuk perbaikan"
+      },
+      {
+        "id": "C",
+        "text": "Menyesuaikan strategi berdasarkan hasil"
+      },
+      {
+        "id": "D",
+        "text": "Hanya mengurutkan peserta didik"
+      },
+      {
+        "id": "E",
+        "text": "Mengajak refleksi diri"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Asesmen mendukung identifikasi kebutuhan, umpan balik, adaptasi, dan refleksi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-52",
+    "source": "Pengembangan",
+    "sourceNumber": 52,
+    "code": "K.1",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih tindakan yang menunjukkan kematangan moral dan emosional guru.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengelola emosi saat menghadapi konflik"
+      },
+      {
+        "id": "B",
+        "text": "Menghormati keberagaman"
+      },
+      {
+        "id": "C",
+        "text": "Mengakui kekeliruan sendiri"
+      },
+      {
+        "id": "D",
+        "text": "Membalas kritik dengan penghinaan"
+      },
+      {
+        "id": "E",
+        "text": "Bersikap adil kepada peserta didik"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Guru menjadi teladan melalui pengendalian diri, penghormatan, dan keadilan.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-53",
+    "source": "Pengembangan",
+    "sourceNumber": 53,
+    "code": "K.2",
+    "type": "PGK MCMA",
+    "difficulty": "Mudah",
+    "stem": "Pilih kebiasaan yang mencerminkan pola pikir bertumbuh.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menerima umpan balik sebagai bahan belajar"
+      },
+      {
+        "id": "B",
+        "text": "Mencoba strategi baru setelah refleksi"
+      },
+      {
+        "id": "C",
+        "text": "Menganggap kemampuan tidak dapat berkembang"
+      },
+      {
+        "id": "D",
+        "text": "Belajar dari kesalahan"
+      },
+      {
+        "id": "E",
+        "text": "Menetapkan target perbaikan"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": "Pola pikir bertumbuh memandang kemampuan dapat dikembangkan melalui usaha dan strategi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-54",
+    "source": "Pengembangan",
+    "sourceNumber": 54,
+    "code": "K.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih tindakan yang mendukung budaya belajar positif.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat kesepakatan bersama"
+      },
+      {
+        "id": "B",
+        "text": "Menindaklanjuti pelanggaran secara konsisten"
+      },
+      {
+        "id": "C",
+        "text": "Memberi ruang perbaikan"
+      },
+      {
+        "id": "D",
+        "text": "Mempermalukan peserta didik"
+      },
+      {
+        "id": "E",
+        "text": "Mengapresiasi usaha dan perkembangan"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Budaya belajar dibangun melalui aturan adil, pemulihan, dan apresiasi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-55",
+    "source": "Pengembangan",
+    "sourceNumber": 55,
+    "code": "S.1",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih praktik komunikasi empatik dan inklusif.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mendengarkan aktif"
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan bahasa yang tidak diskriminatif"
+      },
+      {
+        "id": "C",
+        "text": "Memberi waktu peserta didik merumuskan pendapat"
+      },
+      {
+        "id": "D",
+        "text": "Memotong peserta didik yang lambat berbicara"
+      },
+      {
+        "id": "E",
+        "text": "Memastikan pesan dapat diakses"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Komunikasi inklusif memperhatikan bahasa, akses, dan kesempatan berpartisipasi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-56",
+    "source": "Pengembangan",
+    "sourceNumber": 56,
+    "code": "S.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih praktik kolaborasi yang berorientasi pada peningkatan pembelajaran.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyusun tujuan bersama"
+      },
+      {
+        "id": "B",
+        "text": "Berbagi informasi yang relevan"
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tindak lanjut bersama"
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan seluruh tanggung jawab kepada satu pihak"
+      },
+      {
+        "id": "E",
+        "text": "Melibatkan orang tua secara proporsional"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Kolaborasi memerlukan tujuan, peran, komunikasi, dan evaluasi bersama.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-57",
+    "source": "Pengembangan",
+    "sourceNumber": 57,
+    "code": "S.3",
+    "type": "PGK MCMA",
+    "difficulty": "Sedang",
+    "stem": "Pilih kegiatan komunitas belajar yang mendukung pengembangan profesi.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi pembelajaran sejawat"
+      },
+      {
+        "id": "B",
+        "text": "Diskusi hasil belajar"
+      },
+      {
+        "id": "C",
+        "text": "Berbagi praktik baik dan kendala"
+      },
+      {
+        "id": "D",
+        "text": "Menghindari refleksi"
+      },
+      {
+        "id": "E",
+        "text": "Merancang perbaikan bersama"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Komunitas belajar memperkuat pembelajaran melalui refleksi dan kolaborasi.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-58",
+    "source": "Pengembangan",
+    "sourceNumber": 58,
+    "code": "PF.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Pilih pernyataan yang sesuai dengan prinsip negara hukum.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pemerintah bertindak berdasarkan hukum"
+      },
+      {
+        "id": "B",
+        "text": "Setiap warga memiliki kedudukan yang sama di hadapan hukum"
+      },
+      {
+        "id": "C",
+        "text": "Kekuasaan dapat dijalankan tanpa pengawasan"
+      },
+      {
+        "id": "D",
+        "text": "Hak warga memperoleh perlindungan hukum"
+      },
+      {
+        "id": "E",
+        "text": "Keputusan publik harus dapat dipertanggungjawabkan"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": "Negara hukum mensyaratkan supremasi hukum, persamaan, dan perlindungan hak.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-59",
+    "source": "Pengembangan",
+    "sourceNumber": 59,
+    "code": "P.2",
+    "type": "PGK MCMA",
+    "difficulty": "Sulit",
+    "stem": "Pilih strategi TaRL yang tepat setelah asesmen awal.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memetakan kemampuan awal peserta didik"
+      },
+      {
+        "id": "B",
+        "text": "Mengelompokkan secara fleksibel berdasarkan kebutuhan"
+      },
+      {
+        "id": "C",
+        "text": "Memberi aktivitas sesuai tingkat kesiapan"
+      },
+      {
+        "id": "D",
+        "text": "Menetapkan kelompok permanen berdasarkan label"
+      },
+      {
+        "id": "E",
+        "text": "Melakukan asesmen ulang untuk regrouping"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "TaRL menggunakan asesmen dan pengelompokan fleksibel sesuai perkembangan.",
+    "typeLabel": "PGK MCMA"
+  },
+  {
+    "id": "LAT-60",
+    "source": "Pengembangan",
+    "sourceNumber": 60,
+    "code": "P.6",
+    "type": "PGK MCMA",
+    "difficulty": "Sangat Sulit",
+    "stem": "Pilih karakteristik umpan balik berkualitas.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Spesifik terhadap kriteria"
+      },
+      {
+        "id": "B",
+        "text": "Diberikan saat masih dapat ditindaklanjuti"
+      },
+      {
+        "id": "C",
+        "text": "Menjelaskan langkah perbaikan"
+      },
+      {
+        "id": "D",
+        "text": "Hanya berupa label umum"
+      },
+      {
+        "id": "E",
+        "text": "Mendorong refleksi dan revisi"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "Umpan balik berkualitas menjelaskan capaian dan langkah perbaikan.",
+    "typeLabel": "PGK MCMA"
+  }
+]
