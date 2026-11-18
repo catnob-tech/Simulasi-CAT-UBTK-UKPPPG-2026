@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102a43">
+  <meta name="description" content="Simulasi CAT UBTK UKPPPG 2026 Pendidikan Pancasila.">
+  <title>Simulasi CAT UBTK UKPPPG 2026 | Pendidikan Pancasila</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Beranda CAT UBTK">
+      <span class="brand-mark">CAT</span><span><b>UBTK UKPPPG 2026</b><small>Pendidikan Pancasila</small></span>
+    </a>
+    <span class="top-note">SIMULASI LATIHAN MANDIRI</span>
+  </header>
+
+  <main class="shell">
+    <section id="loading-screen" class="panel center-panel">
+      <div class="spinner"></div><h1>Menyiapkan bank soal</h1>
+      <p>Memuat bank soal latihan dari repositori GitHub Pages…</p>
+    </section>
+
+    <section id="start-screen" class="panel start-panel hidden">
+      <div class="eyebrow">UJIAN BERBASIS KOMPUTER</div>
+      <h1>Simulasi CAT UBTK<br><span>UKPPPG 2026</span></h1>
+      <p class="lead">Pendidikan Pancasila · 80 soal · 180 menit</p>
+      <div class="stats-row">
+        <div><strong id="pool-count">300</strong><span>Bank soal</span></div>
+        <div><strong>80</strong><span>Soal per sesi</span></div>
+        <div><strong>180</strong><span>Menit</span></div>
+      </div>
+      <form id="candidate-form" class="candidate-form">
+        <label for="candidate-name">Nama lengkap</label>
+        <input id="candidate-name" name="candidate-name" type="text" placeholder="Masukkan nama Anda" maxlength="80" required>
+        <label for="candidate-major">Jurusan / bidang studi</label>
+        <input id="candidate-major" name="candidate-major" type="text" value="Pendidikan Pancasila" maxlength="80" required>
+        <label class="checkline"><input type="checkbox" id="shuffle-questions" checked> Acak urutan soal setiap sesi</label>
+        <button class="primary-btn full" type="submit">Mulai Simulasi <span>→</span></button>
+      </form>
+      <div class="notice"><b>Catatan:</b> Ini merupakan media latihan mandiri, bukan aplikasi resmi pemerintah dan bukan representasi soal/bocoran ujian UKPPPG.</div>
+    </section>
+
+    <section id="instruction-screen" class="panel hidden">
+      <div class="eyebrow">SEBELUM MEMULAI</div>
+      <h1>Petunjuk Pengerjaan</h1>
+      <ol class="instructions">
+        <li>Waktu pengerjaan adalah <b>180 menit</b> untuk menyelesaikan 80 soal.</li>
+        <li>Soal terdiri atas Pilihan Ganda (PG), PGK Kategori, dan PGK MCMA.</li>
+        <li><b>PG:</b> pilih satu jawaban yang paling tepat.</li>
+        <li><b>PGK Kategori:</b> tentukan kategori untuk setiap pernyataan pada tabel.</li>
+        <li><b>PGK MCMA:</b> pilih seluruh jawaban yang tepat; jawaban dapat lebih dari satu.</li>
+        <li>Gunakan tombol Sebelumnya, Selanjutnya, atau matriks nomor untuk berpindah soal. Perpindahan tidak mengurangi waktu tambahan.</li>
+        <li>Tombol <b>Ragu-ragu</b> digunakan untuk menandai soal yang ingin ditinjau kembali.</li>
+        <li>Jika waktu habis, jawaban otomatis dikumpulkan dan hasil ditampilkan.</li>
+        <li>Jika menekan Selesai, sistem meminta konfirmasi sebelum menghitung skor.</li>
+      </ol>
+      <div class="notice warning"><b>Perhatian:</b> Jangan menutup atau memuat ulang halaman selama ujian. Waktu berjalan selama sesi aktif.</div>
+      <button id="begin-exam" class="primary-btn full">Saya Mengerti, Mulai Ujian <span>→</span></button>
+    </section>
+
+    <section id="exam-screen" class="hidden">
+      <div class="exam-head">
+        <div><div class="eyebrow">SIMULASI BERLANGSUNG</div><h2 id="exam-candidate">Peserta</h2><p id="exam-meta">Pendidikan Pancasila · 80 soal</p></div>
+        <div class="timer-card"><small>SISA WAKTU</small><strong id="timer">03:00:00</strong></div>
+      </div>
+      <div class="progress-wrap"><div class="progress-label"><span id="progress-text">Terjawab 0 dari 80</span><span id="progress-percent">0%</span></div><div class="progress-track"><div id="progress-bar"></div></div></div>
+      <div class="exam-layout">
+        <article class="question-panel panel">
+          <div class="question-meta">
+            <span id="question-number" class="question-number">SOAL 1</span>
+            <span id="question-type" class="type-pill">Pilihan Ganda</span>
+            <span id="question-difficulty" class="difficulty-pill">Sedang</span>
+            <span id="question-code" class="code-pill">PF.2</span>
+          </div>
+          <div id="question-stem" class="question-stem"></div>
+          <div id="answer-area" class="answer-area"></div>
+          <div class="question-actions">
+            <button id="prev-btn" class="secondary-btn">← Sebelumnya</button>
+            <button id="doubt-btn" class="flag-btn">☆ Ragu-ragu</button>
+            <button id="next-btn" class="primary-btn">Selanjutnya →</button>
+          </div>
+          <div class="question-foot"><span id="source-note"></span><span id="answered-state">Belum dijawab</span></div>
+        </article>
+        <aside class="navigator panel">
+          <div class="navigator-title"><div><b>Navigasi Soal</b><small>Klik nomor untuk berpindah</small></div><span id="nav-count">0/80</span></div>
+          <div class="legend"><span><i class="dot done"></i> Terjawab</span><span><i class="dot doubt"></i> Ragu-ragu</span><span><i class="dot"></i> Kosong</span></div>
+          <div id="question-grid" class="question-grid"></div>
+          <button id="finish-btn" class="finish-btn">Selesai Ujian</button>
+          <p class="auto-note">Ujian akan otomatis berakhir ketika waktu mencapai 00:00:00.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section id="result-screen" class="hidden">
+      <div class="panel result-hero">
+        <div class="eyebrow">HASIL SIMULASI</div>
+        <h1 id="result-title">Ujian Selesai</h1>
+        <p id="result-candidate" class="lead"></p>
+        <div class="score-circle"><strong id="score-value">0</strong><span>SKOR</span></div>
+        <p id="result-summary" class="result-summary"></p>
+        <div class="result-stats">
+          <div><strong id="correct-count">0</strong><span>Benar</span></div>
+          <div><strong id="partial-count">0</strong><span>Parsial</span></div>
+          <div><strong id="wrong-count">0</strong><span>Salah / kosong</span></div>
+          <div><strong id="answered-count">0</strong><span>Terjawab</span></div>
+        </div>
+        <div class="result-actions">
+          <button id="review-toggle" class="secondary-btn">Lihat Pembahasan & Kunci</button>
+          <button id="reset-btn" class="primary-btn">↻ Ulangi dengan Soal Acak</button>
+        </div>
+      </div>
+      <div id="review-section" class="hidden">
+        <div class="review-heading"><div><div class="eyebrow">EVALUASI BELAJAR</div><h2>Pembahasan dan Kunci Jawaban</h2></div><span id="review-total"></span></div>
+        <div id="review-list" class="review-list"></div>
+      </div>
+    </section>
+  </main>
+  <footer><span>Simulasi CAT UBTK UKPPPG 2026 · Pendidikan Pancasila</span><span>Media latihan mandiri · GitHub Pages</span></footer>
+  <div id="confirm-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-card"><h2 id="modal-title">Akhiri ujian sekarang?</h2><p id="modal-message">Pastikan seluruh jawaban sudah diperiksa.</p><div class="modal-actions"><button id="cancel-finish" class="secondary-btn">Kembali</button><button id="confirm-finish" class="primary-btn">Ya, Selesaikan</button></div></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
